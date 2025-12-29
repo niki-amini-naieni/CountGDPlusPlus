@@ -1,6 +1,7 @@
 # CountGD++: Generalized Prompting for Open-World Counting
 ## [NOTE]: Code and models will be released within the next few days (by Jan 1, 2026)
 
+
 Niki Amini-Naieni & Andrew Zisserman
 
 Official PyTorch implementation for CountGD++. Details can be found in the paper, [[Paper]]() [[Project page]](https://github.com/niki-amini-naieni/CountGDPlusPlus/).
@@ -8,7 +9,7 @@ Official PyTorch implementation for CountGD++. Details can be found in the paper
 If you find this repository useful, please give it a star ⭐.
 
 <img src=img/teaser.jpg width="100%"/>
-<strong>New capabilities of CountGD+.</strong>
+<strong>New capabilities of CountGD++.</strong>
 <em>(a) Counting with Positive & Negative Prompts:</em> The negative visual exemplar enables CountGD++ to differentiate between cells that have the same round shape as the object to count but are of a different appearance;  
 <em>(b) Pseudo-Exemplars:</em> Pseudo-exemplars are automatically detected from text-only input and fed back to the model, improving the accuracy of the final count for objects, like unfamiliar fruits, that are challenging to identify given text alone.
 
@@ -43,7 +44,7 @@ sudo apt install gcc-11 g++-11
 
 ### 3. Install CUDA Toolkit:
 
-NOTE: In order to install detectron2 in step 4, you needed to install CUDA Toolkit. Refer to: https://developer.nvidia.com/cuda-downloads
+NOTE: In order to install detectron2 in step 4, you need to install the CUDA Toolkit. Refer to: https://developer.nvidia.com/cuda-downloads
 
 ### 4. Set Up Anaconda Environment:
 
