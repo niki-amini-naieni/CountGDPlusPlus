@@ -46,7 +46,7 @@ NOTE: In order to install detectron2 in step 4, you needed to tnstall CUDA Toolk
 
 ### 4. Set Up Anaconda Environment:
 
-The following commands will create a suitable Anaconda environment for running CountVid and training CountGD++. To produce the results in the paper, we used [Anaconda version 2024.02-1](https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh).
+The following commands will create a suitable Anaconda environment for running and training CountGD++. To produce the results in the paper, we used [Anaconda version 2024.02-1](https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh).
 
 ```
 conda create -n countgdplusplus python=3.10
