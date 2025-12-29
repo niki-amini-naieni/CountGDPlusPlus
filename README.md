@@ -19,7 +19,7 @@ If you find this repository useful, please give it a star ⭐.
 * [Demo](#demo)
 * [Dataset Download](#dataset-download)
 * [Reproduce Results From Paper](#reproduce-results-from-paper)
-* [Training CountGD++](#training-countgd++)
+* [Training CountGD++](#training-countgd)
 * [Citation](#citation)
 * [Acknowledgements](#acknowledgements)
 
