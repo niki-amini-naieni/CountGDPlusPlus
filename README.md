@@ -1,6 +1,5 @@
 # CountGD++: Generalized Prompting for Open-World Counting
 ## [NOTE]: Code and models will be released within the next few days (by Jan 1, 2026)
-The release will include a single-image inference demo (with positive/negative prompts), training, and evaluation code, along with pretrained checkpoints and dataset instructions.
 
 Niki Amini-Naieni & Andrew Zisserman
 
