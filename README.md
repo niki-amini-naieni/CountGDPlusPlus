@@ -100,3 +100,29 @@ You should see the following videos saved to the ```demo_output``` folder once t
       <img src="./img/countgd-video-demo.gif" alt="timelapse boxes from CountGD-Box" width="100%"/>
   </p>
 
+## Dataset Download
+
+## Reproduce Results From Paper
+
+## Training CountGD++
+
+## Citation
+Please cite our related papers if you build off of our work.
+```
+@article{AminiNaieni25,
+  title={CountGD++: Generalized Prompting for Open-World Counting},
+  author={Amini-Naieni, N. and Zisserman, A.},
+  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  year={2025}
+}
+
+@InProceedings{AminiNaieni24,
+  title = {CountGD: Multi-Modal Open-World Counting},
+  author = {Amini-Naieni, N. and Han, T. and Zisserman, A.},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year = {2024},
+}
+```
+
+## Acknowledgements
+The authors would like to thank Dr Christian Schroeder de Witt (Oxford Witt Lab, OWL) for his helpful feedback and insights on the paper figures and Gia Khanh Nguyen, Yifeng Huang, and Professor Minh Hoai for their help with the PairTally Benchmark. This research is funded by an AWS Studentship, the Reuben Foundation, a Qualcomm Innovation Fellowship (mentors: Dr Farhad Zanjani and Dr Davide Abati), the AIMS CDT program at the University of Oxford, EPSRC Programme Grant VisualAI EP/T028572/1, and a Royal Society Research Professorship RSRP\R\241003.
