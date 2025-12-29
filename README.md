@@ -1,5 +1,5 @@
 # CountGD++: Generalized Prompting for Open-World Counting
-
+## [NOTE]: Code and models will be released by January 1, 2026
 Niki Amini-Naieni & Andrew Zisserman
 
 Official PyTorch implementation for CountGD++. Details can be found in the paper, [[Paper]]() [[Project page]](https://github.com/niki-amini-naieni/CountGDPlusPlus/).
@@ -75,30 +75,14 @@ python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
   python download_bert.py
   ```
 
-* Download the pretrained CountGD++ model available [here](https://drive.google.com/file/d/1bw-YIS-Il5efGgUqGVisIZ8ekrhhf_FD/view?usp=sharing), and place it in the ```checkpoints``` directory Or use ```gdown``` to download the weights.
+* Download the pretrained CountGD++ model available [here](), and place it in the ```checkpoints``` directory Or use ```gdown``` to download the weights.
 
   ```
   pip install gdown
-  gdown --id 1bw-YIS-Il5efGgUqGVisIZ8ekrhhf_FD -O checkpoints/
+  gdown --id [tbd]
   ```
 
 ### 6. Run Demo
-* Run the following command.
-```
-python count_in_videos.py --video_dir demo --input_text "penguin" --sam_checkpoint checkpoints/sam2.1_hiera_large.pt --sam_model_cfg configs/sam2.1/sam2.1_hiera_l.yaml --obj_batch_size 30 --img_batch_size 10 --downsample_factor 1 --pretrain_model_path checkpoints/countgd_box.pth --temp_dir ./demo_temp --output_dir ./demo_output --save_final_video --save_countgd_video
-```
-* Visualize the output.
-You should see the following videos saved to the ```demo_output``` folder once the demo has finished running:
-
-  ```final-video.mp4```
-  <p align="center">
-      <img src="./img/final-video-demo.gif" alt="final output video" width="100%"/>
-  </p>
-
-  ```countgd-video.avi```
-  <p align="center">
-      <img src="./img/countgd-video-demo.gif" alt="timelapse boxes from CountGD-Box" width="100%"/>
-  </p>
 
 ## Dataset Download
 
