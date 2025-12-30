@@ -76,7 +76,7 @@ python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
   python download_bert.py
   ```
 
-* Download the pretrained CountGD++ model available [here](https://drive.google.com/file/d/1j6N22TtKu2NVcKpgfrf-sJHGeLDqs9hs/view?usp=sharing), and place it in the ```checkpoints``` directory Or use ```gdown``` to download the weights.
+* Download the pretrained CountGD++ model available [here](https://drive.google.com/file/d/1j6N22TtKu2NVcKpgfrf-sJHGeLDqs9hs/view?usp=sharing) (1.25 GB), and place it in the ```checkpoints``` directory Or use ```gdown``` to download the weights.
 
   ```
   pip install gdown
