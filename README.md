@@ -24,6 +24,7 @@ If you find this repository useful, please give it a star ⭐.
 * [Acknowledgements](#acknowledgements)
 
 ## Demo
+A Gradio graphical user interface demo has been created to allow users to test the model. The demo can be run on a remote GPU and accessed via a public link generated at runtime. A short video illustrating the demo workflow is included [here](https://drive.google.com/file/d/14cRslOiiEXqNrmOJsitIQliTqQIgAZ9C/view?usp=sharing). Note that pseudo-exemplars and adaptive cropping are not implemented in the demo. Please see the FSCD-147, PrACo, and ShanghaiTech test scripts to see how the pseudo-exemplars are implemented. Please see the FSCD-147 test script to see how adaptive cropping is implemented.
 
 ### 1. Clone Repository
 
@@ -84,6 +85,12 @@ python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
   ```
 
 ### 6. Run Demo
+
+Run the command below to launch the demo. A video illustrating the demo workflow is provided [here](https://drive.google.com/file/d/14cRslOiiEXqNrmOJsitIQliTqQIgAZ9C/view?usp=sharing).
+
+```
+python app.py
+```
 
 ## Dataset Download
 
