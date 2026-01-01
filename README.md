@@ -1,7 +1,7 @@
 # CountGD++: Generalized Prompting for Open-World Counting
 Niki Amini-Naieni & Andrew Zisserman
 
-## [NOTE]: Code and models will be released within the next few days (by Jan 1, 2026)
+## [NOTE]: Code and models will be released within the next few days
 
 Official PyTorch implementation for CountGD++. Details can be found in the paper, [[Paper]](https://arxiv.org/abs/2512.23351) [[Project page]](https://github.com/niki-amini-naieni/CountGDPlusPlus/).
 
