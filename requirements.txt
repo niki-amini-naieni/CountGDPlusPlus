@@ -1,0 +1,21 @@
+scipy
+termcolor
+addict
+yapf==0.40.1
+timm
+numpy
+opencv-python
+pycocotools
+colorlog
+setuptools
+ushlex
+gradio>=4.0.0,<5
+gradio_image_prompter-0.1.0-py3-none-any.whl
+spaces
+filetype
+tqdm
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch<2.6
+torchvision
+transformers
+pydantic==2.10.6
