@@ -54,6 +54,7 @@ The following commands will create a suitable Anaconda environment for running a
 conda create -n countgdplusplus python=3.10
 conda activate countgdplusplus
 conda install -c conda-forge gxx_linux-64 compilers libstdcxx-ng # ensure to install required compilers
+cd CountGDPlusPlus
 pip install -r requirements.txt
 export CC=/usr/bin/gcc-11 # this ensures that gcc 11 is being used for compilation
 cd models/GroundingDINO/ops
