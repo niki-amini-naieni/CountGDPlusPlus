@@ -61,7 +61,7 @@ cd models/GroundingDINO/ops
 python setup.py build install
 python test.py # should result in 6 lines of * True
 cd ../../../
-python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
+pip install --no-build-isolation 'git+https://github.com/facebookresearch/detectron2.git'
 ```
 
 ### 5. Download Pre-Trained Weights
