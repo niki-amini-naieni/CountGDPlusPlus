@@ -44,7 +44,7 @@ sudo apt install gcc-11 g++-11
 
 ### 3. Install CUDA Toolkit:
 
-NOTE: In order to install detectron2 in step 4, you need to install the CUDA Toolkit. Refer to: https://developer.nvidia.com/cuda-downloads
+NOTE: In order to install detectron2 in step 4, you need to install the CUDA Toolkit. Refer to: https://developer.nvidia.com/cuda-downloads. If multiple CUDA versions are installed, make sure you are using the right one. [This repository](https://github.com/phohenecker/switch-cuda) is quite useful for switching between CUDA versions.
 
 ### 4. Set Up Anaconda Environment:
 
