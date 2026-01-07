@@ -95,7 +95,46 @@ python app.py
 
 ## Dataset Download
 
+### 1. Download FSCD-147
+Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_qa-ziKn-LYfUWA6/view?usp=sharing), and update [datasets_fscd147_val.json](config/datasets_fscd147_val.json), and [datasets_fscd147_test.json](config/datasets_fscd147_test.json) to point to the image folder you have downloaded.
+
+### 2. Download Blood Cell Detection
+
+### 3. Download OmniCount (Fruits)
+
+### 4. Download ShanghaiTech Test
+
 ## Reproduce Results From Paper
+
+### 1. FSCD-147
+
+### 2. Blood Cell Detection
+
+* To test the setting with positive text and 1 "positive internal exemplar" (a visual exemplar of the object to count from inside the input image), run the following command:
+
+  ```
+  python
+  ```
+
+* To test the setting with positive text and 1 "positive external exemplar" (a visual exemplar of the object to count from one image applied across the dataset), run the following command:
+
+  ```
+  python
+  ```
+* To test the setting with positive text, 1 "positive internal exemplar" (a visual exemplar of the object to count from inside the input image), negative text, and 1 "negative internal exemplar" (a visual exemplar of the object to *not* count from inside the input image), run the following command:
+
+  ```
+  python
+  ```
+
+* To test the setting with positive text, 1 "positive external exemplar" (a visual exemplar of the object to count from one image applied across the dataset), negative text and 1 "negative internal exemplar" (a visual exemplar of the object to *not* count from one image applied across the dataset), run the following command:
+
+  ```
+  python
+  ```
+### 3. OmniCount (Fruits)
+
+### 4. ShanghaiTech Test
 
 ## Training CountGD++
 
