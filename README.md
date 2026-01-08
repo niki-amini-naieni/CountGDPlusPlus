@@ -179,6 +179,7 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
   ```
   ```
   python evaluate_coco_metrics.py --gt data/omnicount_fruits_test/_annotations.coco.json --pred omnicount_fruits_test_output_pos_text_pos_ext_exemp_neg_text_neg_ext_exemp/coco_predictions.json
+  ```
 
 ### 4. ShanghaiTech Test
 
