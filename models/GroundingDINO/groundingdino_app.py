@@ -279,13 +279,6 @@ class GroundingDINO(nn.Module):
         position_ids = text_dict["position_ids"]
         text_self_attention_masks = text_dict["text_self_attention_masks"]
 
-        print("orig input_ids:")
-        print(input_ids)
-        print("orig position_ids")
-        print(position_ids)
-        print("orig self-attention masks")
-        print(text_self_attention_masks)
-
         for sample_ind in range(len(labels)):
             label = labels[sample_ind][0]
             exemplars = exemplar_tokens[sample_ind]
@@ -340,13 +333,6 @@ class GroundingDINO(nn.Module):
         ) = generate_masks_with_special_tokens_and_transfer_map(
             tokenized, self.specical_tokens, None
         )
-
-        print("new input_ids:")
-        print(tokenized["input_ids"])
-        print("new position_ids")
-        print(position_ids)
-        print("new self-attention masks")
-        print(text_self_attention_masks)
 
         return ({
             "encoded_text": torch.stack(new_encoded_text),
