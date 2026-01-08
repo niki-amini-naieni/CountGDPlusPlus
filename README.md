@@ -122,18 +122,27 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
 * To test the setting with positive text and 1 "positive external exemplar" (a visual exemplar of the object to count from one image applied across the dataset), run the following commands:
 
   ```
-  python
+  python test_dataset.py --dataset_folder data/blood_cell_detection --pretrain_model_path checkpoints/countgd_plusplus.pth --pos_text --num_pos_exemp 1 --use_ext_pos_exemp --out_dir blood_cell_detection_output_pos_text_pos_ext_exemp
+  ```
+  ```
+  python evaluate_coco_metrics.py --gt data/blood_cell_detection/_annotations.coco.json --pred blood_cell_detection_output_pos_text_pos_ext_exemp/coco_predictions.json
   ```
 * To test the setting with positive text, 1 "positive internal exemplar" (a visual exemplar of the object to count from inside the input image), negative text, and 1 "negative internal exemplar" (a visual exemplar of the object to *not* count from inside the input image), run the following command:
 
   ```
-  python
+  python test_dataset.py --dataset_folder data/blood_cell_detection --pretrain_model_path checkpoints/countgd_plusplus.pth --pos_text --num_pos_exemp 1 --neg_text --num_neg_exemp 1 --out_dir blood_cell_detection_output_pos_text_pos_int_exemp_neg_text_neg_int_exemp
+  ```
+  ```
+  python evaluate_coco_metrics.py --gt data/blood_cell_detection/_annotations.coco.json --pred blood_cell_detection_output_pos_text_pos_int_exemp_neg_text_neg_int_exemp/coco_predictions.json
   ```
 
 * To test the setting with positive text, 1 "positive external exemplar" (a visual exemplar of the object to count from one image applied across the dataset), negative text and 1 "negative internal exemplar" (a visual exemplar of the object to *not* count from one image applied across the dataset), run the following command:
 
   ```
-  python
+  python test_dataset.py --dataset_folder data/blood_cell_detection --pretrain_model_path checkpoints/countgd_plusplus.pth --pos_text --num_pos_exemp 1 --use_ext_pos_exemp --neg_text --num_neg_exemp 1 --use_ext_neg_exemp --out_dir blood_cell_detection_output_pos_text_pos_ext_exemp_neg_text_neg_ext_exemp
+  ```
+  ```
+  python evaluate_coco_metrics.py --gt data/blood_cell_detection/_annotations.coco.json --pred blood_cell_detection_output_pos_text_pos_ext_exemp_neg_text_neg_ext_exemp/coco_predictions.json
   ```
 ### 3. OmniCount (Fruits)
 
