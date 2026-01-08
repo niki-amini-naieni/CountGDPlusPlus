@@ -169,7 +169,7 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
   python test_dataset.py --dataset_folder data/omnicount_fruits_test --pretrain_model_path checkpoints/countgd_plusplus.pth --pos_text --num_pos_exemp 1 --neg_text --num_neg_exemp 1 --out_dir omnicount_fruits_test_output_pos_text_pos_int_exemp_neg_text_neg_int_exemp
   ```
   ```
-  python evaluate_coco_metrics.py --gt data/blood_cell_detection/_annotations.coco.json --pred blood_cell_detection_output_pos_text_pos_int_exemp_neg_text_neg_int_exemp/coco_predictions.json
+  python evaluate_coco_metrics.py --gt data/omnicount_fruits_test/_annotations.coco.json --pred omnicount_fruits_test_output_pos_text_pos_int_exemp_neg_text_neg_int_exemp/coco_predictions.json
   ```
 
 * To test the setting with positive text, 1 "positive external exemplar" (a visual exemplar of the object to count from one image applied across the dataset), negative text and 1 "negative external exemplar" (a visual exemplar of the object to *not* count from one image applied across the dataset) for each negative class, run the following command:
