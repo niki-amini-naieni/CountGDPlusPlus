@@ -370,7 +370,7 @@ if __name__ == '__main__':
                 "text": negative_text,
                 "exemplars": {"image":os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"), "boxes": get_box_inputs(negative_prompt)}
             })
-            negative_prompt["image"].convert("RGB").save(os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png")))
+            negative_prompt["image"].convert("RGB").save(os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"))
 
         with open(os.path.join("saved_prompts", "prompts.json"), 'w') as out_f:
             json.dump(prompt_json, out_f)
