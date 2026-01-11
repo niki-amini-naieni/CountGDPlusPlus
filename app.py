@@ -361,7 +361,7 @@ if __name__ == '__main__':
 
         # Save positive prompts
         positive_prompts["image"].convert("RGB").save(os.path.join("saved_prompts", "pos_exemplar_image.png"))
-        prompt_json["positive"]["exemplars"]["boxes"] = get_box_inputs(positive_prompts)
+        prompt_json["positive"]["exemplars"]["boxes"] = get_box_inputs(positive_prompts["points"])
 
         # Save negative prompts
         # [negative_idx] indicates up to what index is visible.
@@ -369,7 +369,7 @@ if __name__ == '__main__':
             (negative_prompt, negative_text) = negative_outputs[2 * ind], negative_outputs[2 * ind + 1]
             prompt_json["negative"].append({
                 "text": negative_text,
-                "exemplars": {"image":os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"), "boxes": get_box_inputs(negative_prompt)}
+                "exemplars": {"image":os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"), "boxes": get_box_inputs(negative_prompt["points"])}
             })
             negative_prompt["image"].convert("RGB").save(os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"))
 
