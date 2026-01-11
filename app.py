@@ -345,7 +345,7 @@ if __name__ == '__main__':
 
     def save_prompts(positive_text, positive_prompts, negative_idx, *negative_outputs):
         # Create directory to save prompts
-        os.mkdirs("saved_prompts", exists_ok=True)
+        os.makdirs("saved_prompts", exists_ok=True)
 
         prompt_json = {
             "positive": {
