@@ -343,6 +343,38 @@ if __name__ == '__main__':
 
         return (gr.Image(output_img, visible=True), gr.Number(label="Predicted Count", visible=True, value=predicted_count))
 
+    def save_prompts(positive_text, positive_prompts, negative_idx, *negative_outputs):
+        # Create directory to save prompts
+        os.mkdirs("saved_prompts", exists_ok=True)
+
+        prompt_json = {
+            "positive": {
+                "text": positive_text, 
+                "exemplars":{
+                    "image": os.path.join("saved_prompts", "pos_exemplar_image.png"), 
+                    "boxes":[]
+                }
+            }, 
+            "negative": []
+        }
+
+        # Save positive prompts
+        positive_prompts["image"].convert("RGB").save(os.path.join("saved_prompts", "pos_exemplar_image.png"))
+        prompt_json["positive"]["exemplars"]["boxes"] = get_box_inputs(positive_prompts)
+
+        # Save negative prompts
+        # [negative_idx] indicates up to what index is visible.
+        for ind in range(negative_idx):
+            (negative_prompt, negative_text) = negative_outputs[2 * ind], negative_outputs[2 * ind + 1]
+            prompt_json["negative"].append({
+                "text": negative_text,
+                "exemplars": {"image":os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png"), "boxes": get_box_inputs(negative_prompt)}
+            })
+            negative_prompt["image"].convert("RGB").save(os.path.join("saved_prompts", "neg_exemplar_image_" + str(ind) + ".png")))
+
+        with open(os.path.join("saved_prompts", "prompts.json"), 'w') as out_f:
+            json.dump(prompt_json, out_f)
+
     def add_neg(idx):
         """Reveal the next hidden pair. Return one update per output + the new idx."""
         next_idx = min(idx + 1, MAX_NEGS)
@@ -396,9 +428,11 @@ if __name__ == '__main__':
                 detected_instances_main = gr.Image(label="Detected Instances", show_label='True', interactive=False)
                 pred_count_main = gr.Number(label="Predicted Count")
                 submit_btn_main = gr.Button("Count", variant="primary")
+                save_prompts_btn = gr.Button("Save Prompts", variant="primary")
                 clear_btn_main = gr.ClearButton(variant="secondary")
         gr.Examples(label="Examples: click on a row to load the example. Add visual exemplars by drawing boxes on the loaded \"Visual Exemplar Image.\"", examples=examples, inputs=[input_image_main, positive_text_main, positive_exemplar_image_main] + neg_outputs)
         submit_btn_main.click(fn=count_main, inputs=[input_image_main, positive_text_main, positive_exemplar_image_main, neg_idx] + neg_outputs, outputs=[detected_instances_main, pred_count_main])
+        save_prompts_btn.click(fn=save_prompts, inputs=[positive_text_main, positive_exemplar_image_main, neg_idx] + neg_outputs)
         clear_btn_main.add([input_image_main, positive_text_main, positive_exemplar_image_main, detected_instances_main, pred_count_main] + neg_outputs)
 
 
