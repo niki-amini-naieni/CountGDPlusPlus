@@ -1,4 +1,4 @@
-# CountGD++: Generalized Prompting for Open-World Counting
+# [CVPR 2026] CountGD++: Generalized Prompting for Open-World Counting
 Niki Amini-Naieni & Andrew Zisserman
 
 ## [NOTE]: Code and models will be released within the next few days
