@@ -196,11 +196,11 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
 ## Citation
 Please cite our related papers if you build off of our work.
 ```
-@article{AminiNaieni25,
+@InProceedings{AminiNaieni26,
   title={CountGD++: Generalized Prompting for Open-World Counting},
   author={Amini-Naieni, N. and Zisserman, A.},
-  journal={arXiv preprint arXiv:2512.23351},
-  year={2025}
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
 }
 
 @InProceedings{AminiNaieni24,
