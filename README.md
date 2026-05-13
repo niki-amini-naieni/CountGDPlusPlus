@@ -108,6 +108,32 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
 
 ### 1. FSCD-147
 
+* To test the text-only setting, run the following commands. Note that this setting uses both synthetic and pseudo-exemplars, obtained using only text.
+  
+  ```
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_only.json" --fscd_gt_file fscd147/instances_test.json --num_exemplars 0 --use_synth_exemplars --crop --eval
+  ```
+  ```
+  python test_fscd147.py --pred detections_test_text_only.json --gt fscd147/instances_test.json --split "test"
+  ```
+* To test the exemplar-only setting, run the following commands.
+  
+  ```
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_exemplars_only.json" --fscd_gt_file fscd147/instances_test.json --no_text --num_exemplars 3 --crop --sam_tt_norm --eval
+  ```
+  ```
+  python test_fscd147.py --pred detections_test_exemplars_only.json --gt fscd147/instances_test.json --split "test"
+  ```
+  
+* To test the multi-modal setting, with both exemplars and text, run the following commands.
+
+  ```
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_and_exemplars.json" --fscd_gt_file fscd147/instances_test.json --num_exemplars 3 --crop --sam_tt_norm --remove_bad_exemplar --eval
+  ```
+  ```
+  python test_fscd147.py --pred detections_test_text_and_exemplars.json --gt fscd147/instances_test.json --split "test"
+  ```
+
 ### 2. Blood Cell Detection
 
 * To test the setting with positive text and 1 "positive internal exemplar" (a visual exemplar of the object to count from inside the input image), run the following commands:
