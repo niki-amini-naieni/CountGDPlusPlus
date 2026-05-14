@@ -99,20 +99,22 @@ By the end of this section, your directory should have the following structure:
 CountGDPlusPlus\
   |data\
     |fscd147\
+      |FSC147_384_V2\
+      |super-crops\
+      |synthetic_exemplars\
+      ...
     |blood_cell_detection\
     |omnicount_fruits_test\
     |ShanghaiTech\
-  |super-crops\
-  |synthetic_exemplars\
   ...
 ```
 
 ### 1. Download FSCD-147
-Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_qa-ziKn-LYfUWA6/view?usp=sharing), and update [datasets_fscd147_val.json](config/datasets_fscd147_val.json), and [datasets_fscd147_test.json](config/datasets_fscd147_test.json) to point to the image folder you have downloaded.
+Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_qa-ziKn-LYfUWA6/view?usp=sharing), and update [datasets_fscd147_test.json](config/datasets_fscd147_test.json) to point to the image folder you have downloaded.
 
-For adaptive cropping, the image is cropped into smaller pieces, and AI-based super-resolution is applied to the crops before they are provided to the model. For the super-resolution, the image enhancer from the [Bubbi App](https://www.bubbi.app/tools/image-upscaler) was used. The image enhancer is not free, so the enhanced crops are provided [here](https://drive.google.com/file/d/1QyMfhPRp85La8URii8xL6wOoqcQpXhsD/view?usp=sharing). Please download and unzip the ```super-crops``` folder for inference on FSCD-147.
+For adaptive cropping, the image is cropped into smaller pieces, and AI-based super-resolution is applied to the crops before they are provided to the model. For the super-resolution, the image enhancer from the [Bubbi App](https://www.bubbi.app/tools/image-upscaler) was used. The image enhancer is not free, so the enhanced crops are provided [here](https://drive.google.com/file/d/1QyMfhPRp85La8URii8xL6wOoqcQpXhsD/view?usp=sharing). Please download and unzip the ```super-crops``` folder inside of the ```fscd147``` folder for inference on FSCD-147.
 
-For the text-only setting, synthetic exemplars were generated for the FSCD-147 test set using only the text. Please download and unzip the ```synthetic_exemplars``` folder [here](https://drive.google.com/file/d/1XyE77D0bxEKDsPYvpaeD6KyXnSLye1Qg/view?usp=sharing) for inference on FSCD-147.
+For the text-only setting, synthetic exemplars were generated for the FSCD-147 test set using only the text. Please download and unzip the ```synthetic_exemplars``` folder [here](https://drive.google.com/file/d/1XyE77D0bxEKDsPYvpaeD6KyXnSLye1Qg/view?usp=sharing) inside of the ```fscd147``` folder for inference on FSCD-147.
 
 ### 2. Download Blood Cell Detection
 
