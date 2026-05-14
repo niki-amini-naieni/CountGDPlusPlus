@@ -100,12 +100,25 @@ CountGDPlusPlus\
   |data\
     |fscd147\
       |FSC147_384_V2\
+        |annotations\
+          annotation_FSC147_384.json
+        |images_384_VarV2\
+          1050.jpg
+          ...
       |super-crops\
       |synthetic_exemplars\
       ...
     |blood_cell_detection\
+      _annotations.coco.json
+      external_exemplars.json
+      image-100.png
+      ...
     |omnicount_fruits_test\
     |ShanghaiTech\
+      |part_A\
+        |test_data\
+        |train_data\
+      |part_B\
   ...
 ```
 
@@ -120,8 +133,10 @@ For the text-only setting, synthetic exemplars were generated for the FSCD-147 t
 Download the images from the Blood Cell Detection repository [here](https://github.com/draaslan/blood-cell-detection-dataset) and place them in the [blood_cell_detection](https://github.com/niki-amini-naieni/CountGDPlusPlus/tree/main/data/blood_cell_detection) folder.
 
 ### 3. Download OmniCount (Fruits)
+Download the images from the Omnicount-191 dataset [here](https://huggingface.co/datasets/cvssp/OmniCount-191/blob/main/OmniCount-191.zip), and place the images from the Fruits test set inside of the [omnicount_fruits_test](https://github.com/niki-amini-naieni/CountGDPlusPlus/tree/main/data/omnicount_fruits_test) folder.
 
 ### 4. Download ShanghaiTech Test
+Download the ShanghaiTech dataset from [here](https://github.com/desenzhou/ShanghaiTechDataset). Create a new ```ShanghaiTech``` folder inside of the [data](https://github.com/niki-amini-naieni/CountGDPlusPlus/tree/main/data) folder, and place the part_A and part_B folders inside of the new ```ShanghaiTech``` folder.
 
 ## Reproduce Results From Paper
 
