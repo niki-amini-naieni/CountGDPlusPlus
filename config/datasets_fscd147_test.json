@@ -9,7 +9,7 @@
   ],
   "val": [
     {
-      "root": "data/FSC147_384_V2/images_384_VarV2",
+      "root": "data/fscd147/FSC147_384_V2/images_384_VarV2",
       "anno": "data/fscd147/countgd_test_fscd147.json",
       "label_map": null,
       "dataset_mode": "coco"
