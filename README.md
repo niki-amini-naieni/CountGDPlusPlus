@@ -249,10 +249,17 @@ Download the images from the Blood Cell Detection repository [here](https://gith
 ## Citation
 Please cite our related papers if you build off of our work.
 ```
-@InProceedings{AminiNaieni26,
+@InProceedings{AminiNaieni26b,
   title={CountGD++: Generalized Prompting for Open-World Counting},
   author={Amini-Naieni, N. and Zisserman, A.},
   booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}
+
+@InProceedings{AminiNaieni26a,
+  title={Open-World Object Counting in Videos},
+  author={Amini-Naieni, N. and Zisserman, A.},
+  booktitle = {Association for Advancement of Artificial Intelligence Conference (AAAI)},
   year={2026}
 }
 
