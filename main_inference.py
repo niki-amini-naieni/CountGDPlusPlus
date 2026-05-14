@@ -50,7 +50,7 @@ def get_args_parser():
     # evaluation parameters
     parser.add_argument("--no_text", action="store_true")
     parser.add_argument("--use_synth_exemplars", action="store_true", help="use synthetic exemplars")
-    parser.add_argument("--synth_exemplar_folder", type=str, default="synthetic_exemplars", help="name of folder containing synthetic exemplars and JSON file with corresponding box coordinates")
+    parser.add_argument("--synth_exemplar_folder", type=str, default="data/fscd147/synthetic_exemplars", help="name of folder containing synthetic exemplars and JSON file with corresponding box coordinates")
     parser.add_argument("--num_pseudo_exemplars", type=int, help="number of pseudo-exemplars to use", default=3)
     parser.add_argument(
         "--num_exemplars", default=3, type=int, help="number of real visual exemplars to use"
@@ -70,7 +70,7 @@ def get_args_parser():
         "--superres_folder",
         type=str, 
         help="name of folder containing image crops with super-resolution applied",
-        default="super-crops"
+        default="data/fscd147/super-crops"
     )
     parser.add_argument(
         "--remove_bad_exemplar",
