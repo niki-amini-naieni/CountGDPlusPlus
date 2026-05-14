@@ -235,6 +235,14 @@ Download the images from the Blood Cell Detection repository [here](https://gith
   ```
   python test_shanghai_tech.py --pretrain_model_path checkpoints/countgd_plusplus.pth --image_folder data/ShanghaiTech/part_B/test_data/images/ --gt_folder data/ShanghaiTech/part_B/test_data/ground-truth/
   ```
+### 5. CARPK
+
+### 5. VideoCount (Crystals)
+
+### 6. PrACo
+
+### 7. PairTally
+
 
 ## Training CountGD++
 
