@@ -1,0 +1,4244 @@
+[
+    {
+        "id": 0,
+        "image": "c-115-_jpg.rf.00a4cce827c9c3d3308c6e357cb8b67b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, 1 orange"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.616, 0.448, 0.863, 0.768], pineapple: [0.070, 0.144, 0.470, 0.533], pear: [0.509, 0.203, 0.733, 0.420], oren: [0.392, 0.442, 0.584, 0.634]"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "b-1306-_jpg.rf.00d12990d7cb38b687def33b59abaf37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 bananas and 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.520, 0.141, 0.859, 0.417], sugar apple: [0.487, 0.417, 0.709, 0.634], banana: [0.034, 0.133, 0.364, 0.479], banana: [0.309, 0.708, 0.749, 0.958], apples: [0.613, 0.555, 0.889, 0.814], apples: [0.228, 0.431, 0.469, 0.672]"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "b-1725-_jpg.rf.01539ced72531ea3eb72e0ef624ec34f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 sugar apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.362, 0.645, 0.891, 0.936], banana: [0.330, 0.030, 0.801, 0.280], apples: [0.397, 0.327, 0.690, 0.608], sugar apple: [0.022, 0.547, 0.312, 0.814], oren: [0.072, 0.122, 0.370, 0.423]"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "c-40-_jpg.rf.016613fac644738222d00d3cddaf0801.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pear, 1 pineapple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.669, 0.295, 0.979, 0.702], banana: [0.261, 0.681, 0.609, 0.948], pear: [0.345, 0.130, 0.636, 0.406], pineapple: [0.000, 0.281, 0.344, 0.755], oren: [0.389, 0.477, 0.625, 0.695]"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "image": "b-1375-_jpg.rf.01d337dc1871cca408e374f21a2ebb6c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 banana, 1 dragon fruit, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.177, 0.361, 0.316, 0.570], banana: [0.438, 0.273, 0.611, 0.470], dragon fruit: [0.306, 0.583, 0.576, 0.775], sugar apple: [0.425, 0.453, 0.552, 0.580], apples: [0.613, 0.466, 0.773, 0.615], apples: [0.302, 0.322, 0.446, 0.464]"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "c-104-_jpg.rf.039bd3884b6262144d82b7188fa13bda.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, 1 orange"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.289, 0.552, 0.613, 0.777], dragon fruit: [0.545, 0.311, 0.750, 0.494], pear: [0.605, 0.522, 0.766, 0.673], oren: [0.458, 0.431, 0.595, 0.568]"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "c-298-_jpg.rf.050dc0072ce70c3fc499db0bd44daacd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 banana, 1 pear, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.125, 0.244, 0.351, 0.552], guava: [0.372, 0.356, 0.564, 0.537], banana: [0.436, 0.167, 0.679, 0.377], pear: [0.244, 0.562, 0.470, 0.779], pineapple: [0.600, 0.350, 0.881, 0.747]"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "image": "b-1408-_jpg.rf.057acafec8a5938664a859dc2c689a99.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.255, 0.291, 0.652, 0.456], banana: [0.000, 0.530, 0.394, 0.831], apples: [0.155, 0.389, 0.369, 0.608], apples: [0.680, 0.306, 0.918, 0.530], sugar apple: [0.445, 0.456, 0.645, 0.651], dragon fruit: [0.455, 0.608, 0.902, 0.942]"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "image": "c-244-_jpg.rf.06071d1769bf061213d17244ac4d9c86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pineapple, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.294, 0.420, 0.512, 0.622], pineapple: [0.544, 0.394, 0.870, 0.786], sugar apple: [0.317, 0.128, 0.531, 0.327], dragon fruit: [0.000, 0.303, 0.264, 0.676]"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "image": "b-1580-_jpg.rf.07ed4b1019933a1ec59605af3b3ac16a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples and 1 sugar apple and 2 bananas and 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.236, 0.389, 0.522, 0.697], sugar apple: [0.000, 0.062, 0.175, 0.344], banana: [0.017, 0.470, 0.385, 0.843], banana: [0.605, 0.222, 0.888, 0.713], oren: [0.287, 0.000, 0.607, 0.250]"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "image": "b-1459-_jpg.rf.04e69b80722104bd021a777b621543f8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 dragon fruit, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.505, 0.594, 0.873, 0.748], banana: [0.420, 0.223, 0.853, 0.411], dragon fruit: [0.173, 0.519, 0.469, 0.771], sugar apple: [0.352, 0.394, 0.544, 0.572], apples: [0.614, 0.395, 0.830, 0.597], apples: [0.111, 0.158, 0.361, 0.396]"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "image": "c-404-_jpg.rf.08998209613b40f5cb5cd9b05a053b61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 apples, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.412, 0.459, 0.627, 0.690], guava: [0.066, 0.355, 0.313, 0.595], apples: [0.353, 0.195, 0.603, 0.426], banana: [0.667, 0.280, 0.903, 0.652]"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "image": "c-171-_jpg.rf.0680ce43e880bdf5d1054df7bf136cbf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 sugar apple, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.481, 0.338, 0.702, 0.563], dragon fruit: [0.252, 0.161, 0.555, 0.447], sugar apple: [0.755, 0.228, 0.942, 0.402], banana: [0.153, 0.559, 0.555, 0.819]"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "image": "b-1882-_jpg.rf.0b5623f68680820dc4a70993f19ad42e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 2 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.467, 0.494, 0.614, 0.616], banana: [0.486, 0.264, 0.716, 0.396], banana: [0.609, 0.402, 0.842, 0.544]"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "image": "c-543-_jpg.rf.093f1b261dd5752bf479cc7d868fb872.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 apple, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.422, 0.350, 0.616, 0.528], dragon fruit: [0.466, 0.500, 0.778, 0.716], apples: [0.645, 0.339, 0.813, 0.500], oren: [0.255, 0.469, 0.438, 0.637]"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "image": "b-1999-_jpg.rf.0d60bfb955e6a3e21564e24192057a24.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.177, 0.372, 0.602, 0.646], pear: [0.477, 0.148, 0.741, 0.408], pineapple: [0.634, 0.375, 0.942, 0.810], banana: [0.239, 0.641, 0.619, 0.819]"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "image": "b-1744-_jpg.rf.0ca3f6e72accc4ffacd03eee48ac7d95.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 sugar apple, 1 apples, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.311, 0.214, 0.494, 0.392], banana: [0.625, 0.353, 0.777, 0.560], sugar apple: [0.498, 0.500, 0.635, 0.632], apples: [0.492, 0.316, 0.624, 0.445], oren: [0.323, 0.380, 0.466, 0.527]"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "image": "c-473-_jpg.rf.0aab316229d4b1e87ca701aa54f0043f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.300, 0.087, 0.646, 0.388], dragon fruit: [0.255, 0.461, 0.678, 0.762], oren: [0.675, 0.134, 0.985, 0.411], apples: [0.005, 0.259, 0.305, 0.545]"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "image": "b-1686-_jpg.rf.0f6a8f2ac4a91afc010fe56fd84ad379.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.164, 0.559, 0.373, 0.771], oren: [0.461, 0.636, 0.702, 0.866], banana: [0.688, 0.361, 0.976, 0.727], banana: [0.141, 0.095, 0.451, 0.490], apples: [0.434, 0.345, 0.677, 0.588]"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "image": "c-504-_jpg.rf.0f0c5774b819f2e96b74fc3eeea4ed8f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.444, 0.284, 0.732, 0.666], pear: [0.161, 0.453, 0.428, 0.679], apples: [0.152, 0.163, 0.416, 0.415], oren: [0.336, 0.634, 0.552, 0.844]"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "image": "c-2-_jpg.rf.0e8a12a68acc97caab483781dca08050.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, 1 pear, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.728, 0.536, 1.000, 0.889], pineapple: [0.212, 0.053, 0.744, 0.466], banana: [0.302, 0.481, 0.525, 0.839], pear: [0.742, 0.205, 0.999, 0.457], oren: [0.530, 0.436, 0.755, 0.655]"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "image": "b-1895-_jpg.rf.0f9287fff865322099c3e7da256935a2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.495, 0.388, 0.759, 0.553], pineapple: [0.250, 0.383, 0.491, 0.662], pear: [0.508, 0.567, 0.681, 0.719], banana: [0.394, 0.284, 0.620, 0.423]"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "image": "d-74-_jpg.rf.101f10f11a3a0a0c97786f44d59d3e39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 guava and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.141, 0.338, 0.458, 0.592], guava: [0.613, 0.445, 0.896, 0.671], pineapple: [0.152, 0.662, 0.620, 0.970]"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "image": "c-208-_jpg.rf.10b9bb95e305a1e6ab0cc23e417c94e5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.570, 0.622, 0.724, 0.778], pineapple: [0.205, 0.498, 0.537, 0.789], dragon fruit: [0.511, 0.247, 0.752, 0.475], banana: [0.287, 0.259, 0.477, 0.478], guava: [0.452, 0.419, 0.625, 0.573]"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "image": "c-209-_jpg.rf.0f46500d6c07feba9c2ebffeaa8f3f29.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.512, 0.598, 0.649, 0.735], pineapple: [0.205, 0.480, 0.491, 0.749], dragon fruit: [0.480, 0.261, 0.696, 0.470], banana: [0.269, 0.264, 0.447, 0.463], guava: [0.423, 0.416, 0.575, 0.558]"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "image": "c-150-_jpg.rf.0eceda1ecad73821953a4385a4262429.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 banana, 1 dragon fruit, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.430, 0.580, 0.845, 0.823], sugar apple: [0.773, 0.492, 0.934, 0.646], banana: [0.305, 0.375, 0.473, 0.618], dragon fruit: [0.477, 0.216, 0.729, 0.401], guava: [0.523, 0.398, 0.713, 0.559]"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "image": "c-195-_jpg.rf.13e2b6eabdbf190d8ad016daf6b3298b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 sugar apple, 1 pineapple, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.155, 0.552, 0.561, 0.871], sugar apple: [0.773, 0.520, 0.999, 0.739], pineapple: [0.556, 0.009, 0.998, 0.447], guava: [0.425, 0.383, 0.687, 0.630]"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "image": "c-408-_jpg.rf.1b6d1bdd0471242f05a789bc6a906597.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 sugar apple, 1 guava, 1 banana, 1 apple"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.392, 0.361, 0.599, 0.584], guava: [0.702, 0.442, 0.945, 0.685], banana: [0.127, 0.398, 0.355, 0.787], apples: [0.427, 0.617, 0.659, 0.850]"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "image": "b-1642-_jpg.rf.1632085dd494259ae48ed7bf27cb7d7e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 apples, 1 oren, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.400, 0.647, 0.866, 0.902], banana: [0.392, 0.081, 0.791, 0.334], apples: [0.455, 0.356, 0.705, 0.609], oren: [0.108, 0.216, 0.384, 0.492], sugar apple: [0.086, 0.542, 0.372, 0.799]"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "image": "b-1834-_jpg.rf.18f4adb97c1c2628c0b5faf04399328f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 2 banana, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.580, 0.280, 0.880, 0.552], banana: [0.197, 0.209, 0.594, 0.450], banana: [0.000, 0.483, 0.397, 0.740], sugar apple: [0.419, 0.622, 0.695, 0.867]"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "image": "c-82-_jpg.rf.10ab4fa3ce5e71958daf4d842330b99c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 oren, 1 banana, 1 pineapple, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.647, 0.291, 0.942, 0.675], oren: [0.317, 0.352, 0.567, 0.609], banana: [0.084, 0.002, 0.481, 0.359], pear: [0.394, 0.642, 0.648, 0.885], pineapple: [0.000, 0.411, 0.336, 0.886]"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "image": "b-1878-_jpg.rf.144f0634c99848b5043c25d798be5e27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.411, 0.366, 0.572, 0.512], banana: [0.272, 0.506, 0.477, 0.711], guava: [0.622, 0.434, 0.802, 0.639]"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "image": "c-212-_jpg.rf.16222fb212272f7a8d077c2001954797.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 guava, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.344, 0.303, 0.483, 0.435], pineapple: [0.495, 0.311, 0.770, 0.592], dragon fruit: [0.263, 0.550, 0.472, 0.776], guava: [0.391, 0.492, 0.537, 0.629], banana: [0.497, 0.600, 0.684, 0.785]"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "image": "c-379-_jpg.rf.1305b8803d4138a3dd772953abe461ae.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pineapple, 1 pear, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.548, 0.322, 0.823, 0.536], pineapple: [0.148, 0.108, 0.559, 0.478], pear: [0.344, 0.480, 0.598, 0.732], oren: [0.614, 0.573, 0.884, 0.816]"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "image": "d-63-_jpg.rf.196a845420623de5431af105ff1d5bdd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.566, 0.270, 0.845, 0.547], guava: [0.419, 0.714, 0.671, 0.971], pineapple: [0.077, 0.175, 0.406, 0.720]"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "image": "c-210-_jpg.rf.1f88a17ae7896148bc6d3adc33cacea6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.353, 0.559, 0.500, 0.704], pineapple: [0.525, 0.414, 0.835, 0.702], dragon fruit: [0.287, 0.191, 0.523, 0.423], banana: [0.548, 0.200, 0.743, 0.399], guava: [0.425, 0.359, 0.584, 0.513]"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "image": "b-1622-_jpg.rf.1f043d9518792a687f6a5e9165141ff9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.239, 0.000, 0.667, 0.242], banana: [0.430, 0.539, 0.891, 0.952], sugar apple: [0.000, 0.186, 0.237, 0.430], oren: [0.062, 0.448, 0.348, 0.720], apples: [0.378, 0.245, 0.635, 0.505]"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "image": "c-68-_jpg.rf.177888659fe731cd7867625294bc98c4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.455, 0.091, 0.873, 0.430], pineapple: [0.106, 0.633, 0.611, 0.988], banana: [0.066, 0.214, 0.280, 0.611], guava: [0.580, 0.537, 0.841, 0.783]"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "image": "b-1830-_jpg.rf.1515507f58f6732543fa6e8806429b71.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.530, 0.286, 0.804, 0.558], sugar apple: [0.369, 0.614, 0.605, 0.847], banana: [0.170, 0.219, 0.557, 0.438], banana: [0.014, 0.473, 0.355, 0.695]"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "image": "b-1319-_jpg.rf.1f5ce9578ea2d32e4288ebff15f0847c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 bananas and 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.467, 0.228, 0.703, 0.394], sugar apple: [0.414, 0.350, 0.546, 0.497], banana: [0.155, 0.456, 0.416, 0.675], banana: [0.633, 0.461, 0.834, 0.716], apples: [0.252, 0.320, 0.417, 0.481], apples: [0.453, 0.478, 0.607, 0.637]"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "image": "c-477-_jpg.rf.1a509d96526c0050e92b21faef7aebe4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear and 1 apples and 1 oren and 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.388, 0.273, 0.659, 0.514], apples: [0.117, 0.388, 0.365, 0.616], oren: [0.681, 0.333, 0.958, 0.573], dragon fruit: [0.270, 0.580, 0.730, 0.834]"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "image": "c-302-_jpg.rf.15a295ca0d9cad7c6e1b91303d144fad.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.073, 0.366, 0.326, 0.727], guava: [0.369, 0.436, 0.583, 0.641], pineapple: [0.639, 0.284, 0.963, 0.698], banana: [0.378, 0.636, 0.677, 0.866], pear: [0.286, 0.144, 0.536, 0.394]"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "image": "b-1683-_jpg.rf.1cd984d593ffd6c4ad09b23ffa943b87.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 orange, 2 bananas, 1 sugar apple, and 1 apple"
+            },
+            {
+                "from": "gpt",
+                "value": "oren: [0.420, 0.142, 0.637, 0.356], banana: [0.644, 0.217, 0.937, 0.516], banana: [0.212, 0.567, 0.583, 0.904], sugar apple: [0.166, 0.292, 0.375, 0.491], apples: [0.458, 0.389, 0.686, 0.608]"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "image": "b-1513-_jpg.rf.165d079aa6a8b203c14dd84d47a8b2a4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 orange, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.375, 0.541, 0.661, 0.820], oren: [0.119, 0.125, 0.453, 0.469], sugar apple: [0.595, 0.122, 0.859, 0.420], banana: [0.614, 0.539, 0.909, 0.952], banana: [0.034, 0.427, 0.352, 0.881]"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "image": "c-168-_jpg.rf.202093da760adb7831825366281a0375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 dragon fruit, 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.030, 0.516, 0.229, 0.698], guava: [0.303, 0.420, 0.529, 0.646], dragon fruit: [0.417, 0.578, 0.716, 0.852], banana: [0.517, 0.189, 0.873, 0.470]"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "image": "b-1316-_jpg.rf.1f564b98ac11ddb2553a57892d8b9d70.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 apples, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.247, 0.158, 0.542, 0.420], apples: [0.566, 0.352, 0.804, 0.548], apples: [0.309, 0.519, 0.502, 0.718], sugar apple: [0.417, 0.369, 0.595, 0.542], banana: [0.525, 0.545, 0.857, 0.781], banana: [0.030, 0.438, 0.268, 0.793]"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "image": "b-1885-_jpg.rf.1d09cc72a9ac3bc414fb3e70c2043a86.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 pineapple and 1 pear and 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.456, 0.409, 0.668, 0.609], pineapple: [0.211, 0.544, 0.528, 0.816], pear: [0.550, 0.592, 0.716, 0.753], banana: [0.303, 0.372, 0.484, 0.564]"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "image": "b-1608-_jpg.rf.20d0b7ca7f2e7535b3c4b6d9b4da31dc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.000, 0.092, 0.272, 0.559], banana: [0.458, 0.055, 0.826, 0.468], apples: [0.306, 0.189, 0.568, 0.459], oren: [0.041, 0.556, 0.348, 0.857], sugar apple: [0.503, 0.609, 0.760, 0.873]"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "image": "b-1777-_jpg.rf.204c6da000c035d4a672be916559b65a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 sugar apple, 1 oren, 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.473, 0.298, 0.685, 0.455], banana: [0.325, 0.597, 0.602, 0.755], sugar apple: [0.309, 0.294, 0.441, 0.416], oren: [0.252, 0.452, 0.403, 0.603], apples: [0.441, 0.416, 0.588, 0.562]"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "image": "b-1480-_jpg.rf.22fc52265218369e7d215b8dcbe10ee7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.000, 0.512, 0.366, 0.791], banana: [0.247, 0.095, 0.713, 0.417], apples: [0.120, 0.264, 0.382, 0.509], apples: [0.733, 0.239, 1.000, 0.511], sugar apple: [0.428, 0.409, 0.654, 0.619], dragon fruit: [0.400, 0.634, 0.799, 0.925]"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "image": "b-1510-_jpg.rf.143a75a108bd98674641d46a64d50e1e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 orange, 1 sugar apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.322, 0.533, 0.601, 0.783], oren: [0.192, 0.131, 0.505, 0.415], sugar apple: [0.603, 0.216, 0.873, 0.463], banana: [0.011, 0.366, 0.273, 0.791]"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "image": "b-1381-_jpg.rf.205030353f759a9d78409c4745506cbc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 2 apples, 1 sugar apple, 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.142, 0.400, 0.430, 0.573], banana: [0.267, 0.158, 0.548, 0.283], apples: [0.223, 0.256, 0.380, 0.410], apples: [0.577, 0.177, 0.728, 0.326], sugar apple: [0.427, 0.300, 0.566, 0.437], dragon fruit: [0.464, 0.417, 0.709, 0.619]"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "image": "b-1842-_jpg.rf.2490d3a8287b9ea6171a4bf8ea16bbc4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.186, 0.195, 0.453, 0.428], banana: [0.459, 0.553, 0.868, 0.810], banana: [0.466, 0.255, 0.819, 0.536], sugar apple: [0.205, 0.533, 0.426, 0.732]"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "image": "c-116-_jpg.rf.22e9265ee071214f974651c85f3b9ce8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, 1 oren, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.119, 0.220, 0.417, 0.595], pineapple: [0.559, 0.514, 0.995, 0.925], pear: [0.283, 0.630, 0.523, 0.868], oren: [0.438, 0.388, 0.652, 0.602], banana: [0.584, 0.169, 0.852, 0.488]"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "image": "c-151-_jpg.rf.1d8ad71f002e94da4363bbf3c895a1a6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.433, 0.153, 0.868, 0.412], sugar apple: [0.803, 0.345, 0.981, 0.504], dragon fruit: [0.489, 0.608, 0.775, 0.807], banana: [0.316, 0.384, 0.484, 0.641], guava: [0.544, 0.436, 0.745, 0.612]"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "image": "b-1825-_jpg.rf.27d97bcf459ed4d429dc2b5355e3e432.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.170, 0.539, 0.427, 0.809], banana: [0.216, 0.155, 0.586, 0.436], banana: [0.592, 0.191, 0.849, 0.552], sugar apple: [0.533, 0.608, 0.742, 0.802]"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "image": "d-62-_jpg.rf.252a5fda169fb12683ac772dacf36733.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guava and one pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.577, 0.442, 0.838, 0.699], guava: [0.436, 0.050, 0.666, 0.295], pineapple: [0.119, 0.280, 0.436, 0.797]"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "image": "b-1523-_jpg.rf.26a0a6c1eba7c4fa9c7db4ec22f7386d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.356, 0.302, 0.628, 0.573], banana: [0.089, 0.280, 0.382, 0.748], banana: [0.472, 0.098, 0.880, 0.380], oren: [0.764, 0.422, 1.000, 0.708], sugar apple: [0.492, 0.719, 0.754, 1.000]"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "image": "c-559-_jpg.rf.28eca450b7232b7e517089f855644b33.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 apple, 1 orange, 1 pear, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.575, 0.792, 0.782, 0.929], dragon fruit: [0.531, 0.400, 0.705, 0.607], apples: [0.653, 0.289, 0.800, 0.428], oren: [0.684, 0.548, 0.807, 0.662], pear: [0.705, 0.422, 0.852, 0.549]"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "image": "c-284-_jpg.rf.2852fc5b7766fe8ec9577e86ac5ee5ad.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 banana, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.381, 0.336, 0.617, 0.557], dragon fruit: [0.664, 0.316, 0.934, 0.681], banana: [0.234, 0.591, 0.569, 0.889], sugar apple: [0.523, 0.086, 0.718, 0.278]"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "image": "c-83-_jpg.rf.2334c7e2fbcfc075c99041698a410f13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 oren, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.730, 0.211, 0.999, 0.620], oren: [0.381, 0.294, 0.638, 0.558], banana: [0.144, 0.553, 0.562, 0.914], pear: [0.452, 0.000, 0.709, 0.255]"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "image": "b-1856-_jpg.rf.245353e986f9f0f2d7d7232e5fdeedf5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.595, 0.528, 0.727, 0.660], banana: [0.467, 0.239, 0.641, 0.503], banana: [0.281, 0.378, 0.442, 0.604], guava: [0.389, 0.609, 0.567, 0.768]"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "image": "c-343-_jpg.rf.221d179de5efb75773fba96573972a61.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 pear, 1 banana, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.406, 0.392, 0.630, 0.606], dragon fruit: [0.109, 0.306, 0.364, 0.626], pear: [0.372, 0.144, 0.586, 0.353], banana: [0.369, 0.662, 0.720, 0.934], pineapple: [0.686, 0.208, 0.989, 0.739]"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "image": "d-43-_jpg.rf.27232957caedecd05cee2c0c7f1bdc8a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple and 2 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.291, 0.388, 0.656, 0.666], guava: [0.583, 0.275, 0.775, 0.431], guava: [0.327, 0.188, 0.495, 0.351]"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "image": "c-82-_jpg.rf.290091488352fd71523852e152ed9457.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 orange, 1 banana, 1 pear, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.028, 0.267, 0.331, 0.664], oren: [0.414, 0.330, 0.671, 0.594], banana: [0.503, 0.000, 0.909, 0.336], pear: [0.331, 0.630, 0.593, 0.880], pineapple: [0.648, 0.391, 0.999, 0.881]"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "image": "b-1978-_jpg.rf.1b4d2db6a68f08e7f2788be51067376b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.412, 0.486, 0.742, 0.722], guava: [0.453, 0.273, 0.694, 0.478], pineapple: [0.073, 0.306, 0.420, 0.659], banana: [0.267, 0.597, 0.546, 0.806]"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "image": "c-50-_jpg.rf.2c9511f11627353f5d166d5cea39912c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 pineapple, 1 banana, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.045, 0.653, 0.432, 0.999], pear: [0.520, 0.653, 0.819, 0.939], pineapple: [0.559, 0.211, 0.954, 0.660], banana: [0.153, 0.245, 0.528, 0.476], oren: [0.327, 0.441, 0.567, 0.671]"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "image": "b-1888-_jpg.rf.2df254e1e6bb7793f83b0c5b8ae28c3a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.453, 0.128, 0.809, 0.438], dragon fruit: [0.291, 0.353, 0.527, 0.589], pear: [0.223, 0.184, 0.433, 0.360], banana: [0.492, 0.420, 0.709, 0.646]"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "image": "b-1963-_jpg.rf.2bc8d955649687107991bc43c4515627.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pineapple, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.480, 0.148, 0.727, 0.447], banana: [0.233, 0.144, 0.452, 0.447], pineapple: [0.205, 0.444, 0.685, 0.747], pear: [0.667, 0.388, 0.898, 0.584]"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "image": "c-108-_jpg.rf.31451e4f551a65dce26355bdcb2437d5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 orange, 1 pear, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.452, 0.173, 0.781, 0.462], dragon fruit: [0.183, 0.445, 0.404, 0.676], oren: [0.400, 0.412, 0.554, 0.566], pear: [0.236, 0.250, 0.423, 0.423], banana: [0.533, 0.456, 0.725, 0.668]"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "image": "c-163-_jpg.rf.2ff48c1690dd9154aeaef37b64f31598.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.089, 0.372, 0.291, 0.557], pineapple: [0.141, 0.017, 0.645, 0.392], dragon fruit: [0.409, 0.580, 0.787, 0.825], banana: [0.673, 0.202, 0.941, 0.541], guava: [0.373, 0.383, 0.614, 0.604]"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "image": "c-555-_jpg.rf.3026a3e7a60833b9d073d52f9ea5dca7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 orange, 1 apple, and 1 pear and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.384, 0.425, 0.594, 0.709], pear: [0.200, 0.547, 0.388, 0.715], oren: [0.328, 0.681, 0.494, 0.833], apples: [0.192, 0.359, 0.375, 0.530]"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "image": "b-1595-_jpg.rf.27585c986a9e36330f4f3a9049ce3ca8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 oren, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.342, 0.211, 0.686, 0.555], banana: [0.670, 0.002, 0.990, 0.511], banana: [0.000, 0.031, 0.315, 0.555], oren: [0.098, 0.609, 0.416, 0.927], sugar apple: [0.566, 0.653, 0.845, 0.937]"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "image": "c-28-_jpg.rf.2f5c915a402db072a1576bceafef8374.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 banana, 2 pears"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.550, 0.195, 0.874, 0.609], guava: [0.314, 0.581, 0.555, 0.795], banana: [0.125, 0.016, 0.433, 0.302], pear: [0.280, 0.292, 0.498, 0.506], pear: [0.316, 0.577, 0.552, 0.802]"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "image": "c-101-_jpg.rf.33cb206121357d41c49da9d5a41b406b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.272, 0.556, 0.570, 0.741], dragon fruit: [0.227, 0.311, 0.416, 0.458], pear: [0.166, 0.477, 0.312, 0.619], oren: [0.342, 0.425, 0.474, 0.552]"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "image": "b-1336-_jpg.rf.31aa7e8dbdc687896b36af26a364bdb1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 apples and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.434, 0.197, 0.698, 0.375], sugar apple: [0.422, 0.381, 0.578, 0.535], apples: [0.627, 0.472, 0.819, 0.671], apples: [0.186, 0.416, 0.393, 0.591], banana: [0.237, 0.539, 0.562, 0.702], banana: [0.091, 0.250, 0.420, 0.423]"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "image": "c-43-_jpg.rf.33cbb7e787166eae31ee75e2e12f0823.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 pineapple, 1 banana, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.648, 0.420, 0.930, 0.755], pear: [0.327, 0.580, 0.577, 0.818], pineapple: [0.098, 0.227, 0.387, 0.640], banana: [0.383, 0.205, 0.702, 0.366], oren: [0.439, 0.345, 0.644, 0.537]"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "image": "c-398-_jpg.rf.4025123183cf5867503a535b4d7e241f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 oren, 1 pear, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.364, 0.559, 0.648, 0.877], oren: [0.675, 0.598, 0.954, 0.858], pear: [0.562, 0.317, 0.848, 0.581], pineapple: [0.037, 0.069, 0.533, 0.617]"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "image": "c-449-_jpg.rf.3941a63332abc2ce899ebbace31b0548.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 banana, and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.355, 0.389, 0.569, 0.598], guava: [0.333, 0.667, 0.559, 0.879], banana: [0.417, 0.109, 0.898, 0.422], apples: [0.569, 0.503, 0.821, 0.734]"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "image": "b-1304-_jpg.rf.36d12cb49fd4c1ef64d4631d009808f3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 banana and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.142, 0.078, 0.445, 0.422], apples: [0.138, 0.550, 0.430, 0.848], apples: [0.589, 0.386, 0.851, 0.650], banana: [0.670, 0.061, 1.000, 0.422], banana: [0.300, 0.706, 0.848, 0.999], sugar apple: [0.320, 0.388, 0.551, 0.618]"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "image": "c-21-_jpg.rf.3b81bc38b58ec2c35e19e033e2026da5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, 1 banana, 1 orange, and 1 lemon."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.008, 0.555, 0.498, 0.937], dragon fruit: [0.577, 0.067, 0.911, 0.531], pear: [0.520, 0.592, 0.777, 0.828], banana: [0.105, 0.091, 0.357, 0.490], oren: [0.345, 0.364, 0.569, 0.588]"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "image": "b-1894-_jpg.rf.2e892c0824d94691ec2cee08db4895ca.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.230, 0.441, 0.499, 0.609], pineapple: [0.484, 0.322, 0.744, 0.601], pear: [0.298, 0.275, 0.474, 0.427], banana: [0.380, 0.558, 0.603, 0.707]"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "image": "b-1899-_jpg.rf.3621db088dcb70853823a3ff37114dd7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.212, 0.394, 0.494, 0.572], pear: [0.350, 0.227, 0.530, 0.395], pineapple: [0.528, 0.342, 0.735, 0.650], banana: [0.312, 0.572, 0.565, 0.711]"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "image": "c-240-_jpg.rf.35a4167aaf928c2cc4490038dc9e940b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 sugar apple, 1 dragon fruit, 1 pineapple, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.545, 0.377, 0.771, 0.600], sugar apple: [0.633, 0.672, 0.859, 0.910], dragon fruit: [0.811, 0.250, 0.998, 0.630], pineapple: [0.181, 0.283, 0.484, 0.734], banana: [0.395, 0.097, 0.744, 0.359]"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "image": "b-1675-_jpg.rf.2e0064a18d7938e3b082ed0f7b7faa89.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 apples, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.222, 0.155, 0.552, 0.400], banana: [0.666, 0.453, 0.964, 0.838], sugar apple: [0.345, 0.628, 0.598, 0.885], apples: [0.458, 0.303, 0.705, 0.553], oren: [0.136, 0.398, 0.403, 0.668]"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "image": "d-42-_jpg.rf.413dc258df24bd40c61183d28912b7b3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.183, 0.528, 0.442, 0.761], guava: [0.158, 0.159, 0.456, 0.465], pineapple: [0.542, 0.253, 0.931, 0.784]"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "image": "b-1904-_jpg.rf.3f694056a21f938d216d3a39596e2101.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.481, 0.431, 0.751, 0.638], pineapple: [0.258, 0.241, 0.488, 0.558], banana: [0.505, 0.283, 0.757, 0.444], pear: [0.359, 0.550, 0.530, 0.718]"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "image": "b-1583-_jpg.rf.3b7e74ccc6358cb1bacfd11feb021f2e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples and 1 sugar apple and 2 bananas and 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.409, 0.470, 0.681, 0.732], sugar apple: [0.759, 0.192, 1.000, 0.447], banana: [0.539, 0.539, 0.856, 0.842], banana: [0.086, 0.269, 0.316, 0.709], oren: [0.364, 0.036, 0.662, 0.353]"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "image": "b-1862-_jpg.rf.36398b5a4c8f1128bec75df88555735d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.573, 0.420, 0.710, 0.577], banana: [0.253, 0.342, 0.416, 0.561], banana: [0.434, 0.250, 0.593, 0.442], guava: [0.373, 0.528, 0.568, 0.709]"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "image": "c-297-_jpg.rf.38daa352c9f152c5fc4359c6fdcdabfc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 banana, 1 guava, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.708, 0.508, 0.970, 0.825], pear: [0.592, 0.236, 0.842, 0.481], banana: [0.325, 0.681, 0.599, 0.931], guava: [0.466, 0.505, 0.687, 0.709], pineapple: [0.122, 0.236, 0.437, 0.731]"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "image": "b-1820-_jpg.rf.424f84d82282876acd18ba32d8b1ae28.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 banana, 1 guava, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.609, 0.461, 0.869, 0.870], banana: [0.211, 0.600, 0.620, 0.898], guava: [0.166, 0.205, 0.452, 0.503], sugar apple: [0.555, 0.205, 0.762, 0.428]"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "image": "b-1310-_jpg.rf.3e0fa880bf7b5c8a37cc7bf6040e017b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 bananas and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.431, 0.573, 0.806, 0.838], apples: [0.677, 0.237, 0.936, 0.473], apples: [0.284, 0.250, 0.515, 0.488], banana: [0.005, 0.369, 0.317, 0.739], banana: [0.422, 0.020, 0.864, 0.275], sugar apple: [0.519, 0.358, 0.718, 0.570]"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "image": "b-1413-_jpg.rf.3994862571547a088f6c2c7bd72805c2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.433, 0.102, 0.868, 0.356], banana: [0.270, 0.545, 0.809, 0.788], apples: [0.247, 0.000, 0.454, 0.214], apples: [0.550, 0.347, 0.802, 0.588], sugar apple: [0.292, 0.244, 0.497, 0.453], dragon fruit: [0.002, 0.145, 0.283, 0.605]"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "image": "b-1348-_jpg.rf.4343eb6160fddb0a3e3526e2557d9e2b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 bananas, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.244, 0.481, 0.453, 0.678], banana: [0.477, 0.613, 0.738, 0.713], banana: [0.494, 0.339, 0.770, 0.471], sugar apple: [0.416, 0.423, 0.541, 0.541], apples: [0.297, 0.228, 0.463, 0.404], apples: [0.583, 0.458, 0.737, 0.605]"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "image": "c-268-_jpg.rf.4a1b6fa7c0db6b1d3ed4b8f4018dacb8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 guava, 1 banana, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.633, 0.272, 0.820, 0.457], dragon fruit: [0.320, 0.531, 0.717, 0.801], guava: [0.316, 0.295, 0.548, 0.497], banana: [0.080, 0.292, 0.294, 0.631], pineapple: [0.195, 0.000, 0.595, 0.267]"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "image": "c-62-_jpg.rf.3b1d801d9bccb72f1d29ca7c068e2645.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 banana and 1 pineapple and 1 guava and 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.091, 0.127, 0.485, 0.475], banana: [0.652, 0.227, 0.873, 0.609], pineapple: [0.373, 0.650, 0.818, 0.980], guava: [0.125, 0.566, 0.380, 0.806], pear: [0.408, 0.419, 0.646, 0.649]"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "image": "c-507-_jpg.rf.43b5b4b69a923633c599c798850adb80.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 apple, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.438, 0.247, 0.705, 0.600], pear: [0.147, 0.316, 0.399, 0.546], apples: [0.252, 0.555, 0.502, 0.798], oren: [0.233, 0.138, 0.432, 0.332]"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "image": "b-1361-_jpg.rf.3ef0d1107d1dbe191655b76213663b35.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 dragon fruit, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.344, 0.269, 0.520, 0.432], apples: [0.344, 0.619, 0.541, 0.833], banana: [0.494, 0.150, 0.705, 0.373], banana: [0.247, 0.341, 0.420, 0.588], dragon fruit: [0.614, 0.386, 0.835, 0.636], sugar apple: [0.444, 0.433, 0.598, 0.575]"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "image": "c-445-_jpg.rf.3feca59b40b82175198947f7f685a7eb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.263, 0.420, 0.517, 0.661], guava: [0.153, 0.125, 0.405, 0.368], apples: [0.461, 0.202, 0.730, 0.463], banana: [0.447, 0.487, 0.913, 0.884]"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "image": "b-1547-_jpg.rf.4b87eb5048978a2b4a2243946999fb1c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 oren, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.338, 0.336, 0.621, 0.600], oren: [0.552, 0.655, 0.795, 0.900], banana: [0.639, 0.194, 0.932, 0.612], banana: [0.116, 0.166, 0.466, 0.572], sugar apple: [0.234, 0.680, 0.429, 0.896]"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "image": "c-80-_jpg.rf.487ca9c4b472072e18070f7b76957fad.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 dragon fruit, 1 pear, 1 banana, 1 guava, 1 oren, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.656, 0.361, 0.955, 0.760], pear: [0.453, 0.133, 0.696, 0.363], banana: [0.092, 0.589, 0.453, 0.935], guava: [0.344, 0.394, 0.577, 0.639], oren: [0.339, 0.391, 0.575, 0.638], pineapple: [0.000, 0.098, 0.409, 0.527]"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "image": "b-1642-_jpg.rf.4567f1c804fa99f4a13203ae7f66a699.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 apples, 1 oren, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.416, 0.661, 0.875, 0.911], banana: [0.409, 0.103, 0.802, 0.351], apples: [0.466, 0.375, 0.713, 0.623], oren: [0.125, 0.236, 0.399, 0.505], sugar apple: [0.105, 0.555, 0.386, 0.807]"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "image": "c-413-_jpg.rf.58637f6d1f7cdbce116484ed2c69da57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 sugar apple, 1 apple, 1 guava, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.452, 0.384, 0.663, 0.603], apples: [0.464, 0.083, 0.728, 0.342], guava: [0.764, 0.247, 1.000, 0.514], banana: [0.163, 0.158, 0.386, 0.566]"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "image": "c-505-_jpg.rf.4fbf1803bb7ffb50fa99c4423c0170a0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.477, 0.311, 0.770, 0.693], pear: [0.186, 0.327, 0.453, 0.562], apples: [0.222, 0.581, 0.486, 0.843], oren: [0.333, 0.153, 0.549, 0.362]"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "image": "b-1776-_jpg.rf.5b9df09d67f201f253c1215a0bc5c5a9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.550, 0.636, 0.687, 0.775], oren: [0.608, 0.433, 0.781, 0.601], banana: [0.420, 0.248, 0.702, 0.436], banana: [0.277, 0.570, 0.515, 0.760], apples: [0.398, 0.466, 0.562, 0.620]"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "image": "c-332-_jpg.rf.4bc490018b7fae276d3a5daf6d5eeb2b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pear, 1 banana, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.506, 0.145, 0.799, 0.496], guava: [0.256, 0.350, 0.497, 0.559], pear: [0.433, 0.548, 0.663, 0.767], banana: [0.075, 0.017, 0.356, 0.349], pineapple: [0.002, 0.405, 0.287, 0.845]"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "image": "b-1325-_jpg.rf.45943081a31b0f1146d8102623c1cbec.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 apples and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.231, 0.184, 0.573, 0.405], sugar apple: [0.419, 0.409, 0.595, 0.609], apples: [0.113, 0.569, 0.384, 0.823], apples: [0.686, 0.456, 0.909, 0.661], banana: [0.425, 0.591, 0.896, 0.834], banana: [0.616, 0.222, 0.981, 0.438]"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "image": "b-1689-_jpg.rf.5a72555174eb0b73c24cf3a93340ae43.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.269, 0.219, 0.452, 0.404], oren: [0.536, 0.197, 0.757, 0.406], banana: [0.702, 0.358, 0.932, 0.723], banana: [0.189, 0.456, 0.432, 0.834], apples: [0.442, 0.433, 0.668, 0.656]"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "image": "c-464-_jpg.rf.54c10a1271ee66428eca9f6be87715fc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.319, 0.117, 0.622, 0.396], dragon fruit: [0.173, 0.458, 0.620, 0.744], apples: [0.000, 0.192, 0.278, 0.441], oren: [0.641, 0.220, 0.931, 0.502]"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "image": "b-1909-_jpg.rf.5a764af04a0433d0210392f9e40b67fe.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 banana, 1 dragon fruit, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.208, 0.184, 0.530, 0.506], banana: [0.530, 0.300, 0.802, 0.541], dragon fruit: [0.427, 0.456, 0.701, 0.723], pear: [0.225, 0.533, 0.422, 0.727]"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "image": "c-364-_jpg.rf.3904fbf683d32d5376fc9d68e7a83dba.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pear, 1 pineapple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.136, 0.223, 0.439, 0.512], pear: [0.169, 0.567, 0.472, 0.820], pineapple: [0.530, 0.216, 0.873, 0.747], oren: [0.002, 0.420, 0.172, 0.682]"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "image": "c-127-_jpg.rf.59d4a46614734e8215e805ebdbdde826.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 sugar apple, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.648, 0.264, 0.874, 0.598], pineapple: [0.127, 0.303, 0.432, 0.727], sugar apple: [0.400, 0.675, 0.588, 0.863], banana: [0.352, 0.177, 0.635, 0.359], guava: [0.452, 0.391, 0.651, 0.583]"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "image": "c-149-_jpg.rf.542365797bd11b3271c2285f13c5742e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 banana, 1 dragon fruit, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.059, 0.536, 0.499, 0.815], sugar apple: [0.000, 0.444, 0.122, 0.617], banana: [0.469, 0.316, 0.656, 0.588], dragon fruit: [0.173, 0.133, 0.466, 0.349], guava: [0.194, 0.330, 0.408, 0.522]"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "image": "c-265-_jpg.rf.5a2d608fdb6da1cb3d8224f2f6f35248.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 guava, 1 banana, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.219, 0.328, 0.392, 0.504], dragon fruit: [0.323, 0.562, 0.691, 0.793], guava: [0.477, 0.342, 0.681, 0.530], banana: [0.706, 0.341, 0.911, 0.651], pineapple: [0.416, 0.053, 0.788, 0.330]"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "image": "b-1559-_jpg.rf.58ddbb44154d3caeefed1f698f38a8c4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 oren, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.380, 0.298, 0.630, 0.562], oren: [0.497, 0.669, 0.749, 0.912], banana: [0.691, 0.239, 0.921, 0.657], banana: [0.145, 0.103, 0.540, 0.495], sugar apple: [0.164, 0.633, 0.390, 0.856]"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "image": "b-1366-_jpg.rf.52f0e262747810cd901f27424bdf3791.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 2 apples, 1 sugar apple, 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.322, 0.667, 0.447, 0.898], banana: [0.655, 0.537, 0.768, 0.799], apples: [0.492, 0.661, 0.651, 0.844], apples: [0.617, 0.291, 0.802, 0.502], sugar apple: [0.461, 0.517, 0.615, 0.647], dragon fruit: [0.247, 0.384, 0.470, 0.630]"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "image": "b-1320-_jpg.rf.52bcbe012c84544919c6fc09914059be.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 bananas and 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.242, 0.616, 0.557, 0.856], sugar apple: [0.400, 0.409, 0.597, 0.619], banana: [0.608, 0.586, 1.000, 0.805], banana: [0.416, 0.158, 0.911, 0.427], apples: [0.080, 0.184, 0.349, 0.439], apples: [0.684, 0.356, 0.937, 0.570]"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "image": "b-1540-_jpg.rf.537e17481e2e84991934186463cf2474.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.344, 0.366, 0.632, 0.659], banana: [0.695, 0.269, 0.996, 0.738], banana: [0.078, 0.113, 0.542, 0.562], oren: [0.475, 0.744, 0.747, 0.998], sugar apple: [0.125, 0.695, 0.348, 0.957]"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "image": "b-1953-_jpg.rf.57b148dd3f7aef75f563ebb2eecd451d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 pear, 1 dragon fruit, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.388, 0.494, 0.782, 0.806], pear: [0.641, 0.267, 0.830, 0.452], dragon fruit: [0.391, 0.156, 0.616, 0.498], banana: [0.197, 0.339, 0.433, 0.625]"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "image": "b-1863-_jpg.rf.5ec96203d8bd17065c081d8c5a472409.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.303, 0.433, 0.466, 0.623], banana: [0.644, 0.338, 0.838, 0.592], banana: [0.438, 0.236, 0.627, 0.457], guava: [0.469, 0.552, 0.695, 0.763]"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "image": "c-378-_jpg.rf.5d78477fb4d57f72d8eecdaf035b624e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pineapple, 1 pear, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.528, 0.431, 0.838, 0.677], pineapple: [0.102, 0.520, 0.556, 0.905], pear: [0.295, 0.228, 0.577, 0.509], oren: [0.602, 0.119, 0.897, 0.405]"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "image": "b-1763-_jpg.rf.6802608fff788a14b4a896228707eea6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 apples, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.252, 0.231, 0.499, 0.443], banana: [0.625, 0.447, 0.801, 0.719], sugar apple: [0.444, 0.622, 0.607, 0.787], apples: [0.463, 0.384, 0.641, 0.541], oren: [0.248, 0.433, 0.436, 0.620]"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "image": "c-23-_jpg.rf.50f48618b8b4d261b58d5e5b4706cc23.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, 1 pear, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.091, 0.100, 0.389, 0.537], pineapple: [0.477, 0.539, 0.912, 0.887], banana: [0.591, 0.117, 0.812, 0.468], pear: [0.220, 0.580, 0.444, 0.798], oren: [0.406, 0.372, 0.608, 0.581]"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "image": "c-302-_jpg.rf.6b71b96f8edf4e1742e6f1a587d297e8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.105, 0.388, 0.338, 0.722], guava: [0.377, 0.453, 0.576, 0.641], pineapple: [0.627, 0.312, 0.927, 0.695], banana: [0.384, 0.637, 0.661, 0.852], pear: [0.300, 0.181, 0.530, 0.412]"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "image": "b-1755-_jpg.rf.642516b581e7387fab56ece97f3e0d74.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.252, 0.680, 0.528, 0.870], banana: [0.511, 0.294, 0.768, 0.553], sugar apple: [0.272, 0.297, 0.455, 0.473], apples: [0.397, 0.517, 0.591, 0.702], oren: [0.169, 0.527, 0.354, 0.712]"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "image": "b-1795-_jpg.rf.6d6525d34f7967ef077191263f626b2b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 apples, 1 oren, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.520, 0.348, 0.713, 0.512], banana: [0.319, 0.153, 0.533, 0.278], apples: [0.430, 0.242, 0.562, 0.374], oren: [0.366, 0.378, 0.512, 0.515], sugar apple: [0.255, 0.272, 0.375, 0.397]"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "image": "b-1783-_jpg.rf.60b48a3adf1e055b3805b52306f8534a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 apples, and 1 oranges."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.355, 0.259, 0.605, 0.360], banana: [0.291, 0.530, 0.562, 0.691], sugar apple: [0.606, 0.298, 0.753, 0.438], apples: [0.406, 0.348, 0.558, 0.500], oren: [0.550, 0.466, 0.718, 0.624]"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "image": "c-229-_jpg.rf.6f733765c3195d00cad30797363ed97f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 pineapple, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.248, 0.342, 0.383, 0.467], dragon fruit: [0.523, 0.380, 0.718, 0.613], pineapple: [0.198, 0.477, 0.410, 0.751], guava: [0.400, 0.463, 0.547, 0.605]"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "image": "c-350-_jpg.rf.5beba42601a0b9e2992561b2b4c17c31.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 pineapple, 1 banana, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.361, 0.367, 0.597, 0.610], dragon fruit: [0.606, 0.477, 0.885, 0.794], pineapple: [0.000, 0.128, 0.339, 0.645], banana: [0.362, 0.094, 0.807, 0.324], pear: [0.297, 0.639, 0.525, 0.872]"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "image": "d-24-_jpg.rf.6b3653b7ea5b9e8028f414e4ad9e4c9b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two green guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.214, 0.200, 0.440, 0.421], guava: [0.150, 0.441, 0.405, 0.681], pineapple: [0.512, 0.223, 0.813, 0.663]"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "image": "b-1887-_jpg.rf.66021148c303590af803cb4dadb8dde6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 banana, 1 dragon fruit, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.227, 0.542, 0.537, 0.799], pear: [0.559, 0.591, 0.738, 0.740], dragon fruit: [0.475, 0.406, 0.670, 0.603], banana: [0.314, 0.359, 0.490, 0.559]"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "image": "b-1501-_jpg.rf.72ff9daf0a094b2dabe03a2eef52b7be.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 sugar apple, 1 orange, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.367, 0.227, 0.617, 0.481], sugar apple: [0.728, 0.391, 0.978, 0.634], oren: [0.450, 0.580, 0.724, 0.868], banana: [0.097, 0.331, 0.436, 0.723], banana: [0.348, 0.077, 0.755, 0.331]"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "image": "b-1389-_jpg.rf.6ab299fba87350db3eda4143403cf53c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 2 apples and 1 sugar apple and 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.480, 0.464, 0.806, 0.606], banana: [0.430, 0.173, 0.735, 0.289], apples: [0.578, 0.272, 0.752, 0.445], apples: [0.233, 0.125, 0.401, 0.288], sugar apple: [0.372, 0.283, 0.523, 0.432], dragon fruit: [0.189, 0.388, 0.444, 0.613]"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "image": "d-70-_jpg.rf.7c548bbd9e658d9022032128f140b801.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.447, 0.034, 0.702, 0.298], guava: [0.544, 0.450, 0.780, 0.691], pineapple: [0.119, 0.248, 0.417, 0.775]"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "image": "c-24-_jpg.rf.620869cee05f7b1b9692cee4aad90f25.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, 1 banana, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.581, 0.077, 0.918, 0.562], pineapple: [0.000, 0.561, 0.486, 0.953], pear: [0.516, 0.613, 0.770, 0.853], banana: [0.080, 0.078, 0.356, 0.502], oren: [0.330, 0.383, 0.562, 0.626]"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "image": "b-1558-_jpg.rf.6e8aac33df77cd94ecc0a84ea2c91c54.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 sugar apple, 1 orange, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.364, 0.452, 0.614, 0.706], sugar apple: [0.188, 0.148, 0.399, 0.372], oren: [0.509, 0.113, 0.759, 0.360], banana: [0.659, 0.380, 0.907, 0.800], banana: [0.138, 0.498, 0.493, 0.891]"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "image": "b-1838-_jpg.rf.7ab744344b3834b3d83db05d348cbae0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 guava and 2 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.233, 0.641, 0.495, 0.879], guava: [0.122, 0.245, 0.430, 0.534], banana: [0.419, 0.244, 0.845, 0.534], banana: [0.530, 0.573, 0.987, 0.814]"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "image": "b-1894-_jpg.rf.792505954277c026f8b740e35489185b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.236, 0.450, 0.517, 0.626], pineapple: [0.503, 0.327, 0.775, 0.620], pear: [0.306, 0.275, 0.491, 0.436], banana: [0.391, 0.573, 0.627, 0.730]"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "image": "c-272-_jpg.rf.826f8229322cb6f68ae288efae6d8b57.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 guava, 1 banana, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.181, 0.209, 0.369, 0.399], dragon fruit: [0.206, 0.506, 0.562, 0.785], guava: [0.448, 0.295, 0.684, 0.509], banana: [0.686, 0.367, 0.883, 0.725], pineapple: [0.489, 0.013, 0.898, 0.332]"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "image": "b-1491-_jpg.rf.7d3262b1c2aa77c4655aa7b5d57d8355.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 banana, 1 dragon fruit, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.581, 0.300, 0.932, 0.555], banana: [0.264, 0.581, 0.666, 0.884], dragon fruit: [0.209, 0.192, 0.562, 0.428], sugar apple: [0.312, 0.420, 0.514, 0.608], apples: [0.005, 0.500, 0.243, 0.721], apples: [0.541, 0.542, 0.752, 0.744]"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "image": "c-289-_jpg.rf.7354309f4c3b7a22d024f873e2db4f22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 sugar apple, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.372, 0.422, 0.636, 0.684], dragon fruit: [0.639, 0.528, 0.942, 0.889], sugar apple: [0.303, 0.783, 0.536, 0.999], banana: [0.380, 0.141, 0.822, 0.369]"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "image": "c-126-_jpg.rf.6f467934717aeab8528b07b807f1259a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 banana, 1 sugar apple, 1 dragon fruit, 1 pineapple, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.344, 0.180, 0.637, 0.365], sugar apple: [0.392, 0.703, 0.584, 0.902], dragon fruit: [0.087, 0.295, 0.323, 0.625], pineapple: [0.553, 0.314, 0.877, 0.761], guava: [0.322, 0.406, 0.536, 0.608]"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "image": "b-1465-_jpg.rf.74c748ce86b4ab9baca090b0fea6ab68.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 3 bananas, 1 apples, 1 dragon fruit, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.586, 0.311, 0.999, 0.549], banana: [0.292, 0.672, 0.790, 0.970], banana: [0.000, 0.611, 0.267, 0.875], apples: [0.606, 0.550, 0.863, 0.791], dragon fruit: [0.192, 0.237, 0.572, 0.514], sugar apple: [0.325, 0.475, 0.541, 0.698]"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "image": "b-1582-_jpg.rf.7d95663f2735a3728e5062b459909290.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples and 1 sugar apple and 2 bananas and 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.303, 0.316, 0.560, 0.577], sugar apple: [0.002, 0.603, 0.234, 0.844], banana: [0.123, 0.197, 0.453, 0.495], banana: [0.645, 0.333, 0.886, 0.739], oren: [0.328, 0.695, 0.631, 0.991]"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "image": "c-230-_jpg.rf.73423a980b693e1477c8c5d882338cf2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 pineapple, 1 guava, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.656, 0.481, 0.810, 0.623], dragon fruit: [0.273, 0.311, 0.495, 0.592], pineapple: [0.613, 0.158, 0.860, 0.459], guava: [0.467, 0.336, 0.630, 0.495], banana: [0.311, 0.192, 0.561, 0.344]"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "image": "b-1429-_jpg.rf.7e81558e8ec71c6a722b0ce42c5284ce.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 apples, 2 banana, 1 sugar apple, 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.420, 0.128, 0.608, 0.323], apples: [0.341, 0.514, 0.569, 0.719], banana: [0.217, 0.250, 0.516, 0.567], banana: [0.527, 0.572, 0.822, 0.865], sugar apple: [0.511, 0.345, 0.681, 0.521], dragon fruit: [0.697, 0.236, 0.942, 0.575]"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "image": "b-1768-_jpg.rf.62190e5a789beb91d96525b41b3b26f5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 sugar apple, 1 apples, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.550, 0.355, 0.713, 0.614], banana: [0.178, 0.372, 0.348, 0.622], sugar apple: [0.223, 0.617, 0.387, 0.773], apples: [0.353, 0.423, 0.512, 0.570], oren: [0.452, 0.572, 0.630, 0.748]"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "image": "b-1808-_jpg.rf.832d52b07c01040ff74ac04e51cc9f7b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 1 sugar apple and 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.353, 0.658, 0.733, 0.925], banana: [0.111, 0.517, 0.370, 0.866], sugar apple: [0.175, 0.295, 0.416, 0.523], guava: [0.552, 0.306, 0.838, 0.636]"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "image": "b-1451-_jpg.rf.782f27141b54bfd9f265d6027180772c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 dragon fruit, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.000, 0.752, 0.449, 0.999], banana: [0.000, 0.205, 0.461, 0.423], apples: [0.002, 0.459, 0.242, 0.741], apples: [0.494, 0.002, 0.847, 0.314], dragon fruit: [0.508, 0.494, 0.895, 0.909], sugar apple: [0.316, 0.383, 0.583, 0.647]"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "image": "c-133-_jpg.rf.7fdca869ec04d4ee38ee5f75df5ea8bd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.206, 0.194, 0.521, 0.535], sugar apple: [0.536, 0.139, 0.706, 0.302], dragon fruit: [0.623, 0.428, 0.849, 0.702], banana: [0.339, 0.537, 0.572, 0.756], pear: [0.498, 0.372, 0.674, 0.548]"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "image": "b-1807-_jpg.rf.7ffb3dad41ef7a8ed963e44d18179c0f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava and 1 sugar apple and 2 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.142, 0.400, 0.423, 0.713], sugar apple: [0.539, 0.486, 0.787, 0.724], banana: [0.581, 0.147, 0.812, 0.491], banana: [0.227, 0.108, 0.582, 0.355]"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "image": "b-1408-_jpg.rf.78720f9376f7cfbefcc349c0134e17ed.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.328, 0.569, 0.667, 0.711], banana: [0.066, 0.245, 0.448, 0.502], apples: [0.244, 0.439, 0.427, 0.627], apples: [0.691, 0.506, 0.895, 0.698], sugar apple: [0.491, 0.402, 0.664, 0.570], dragon fruit: [0.498, 0.152, 0.883, 0.438]"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "image": "b-1740-_jpg.rf.753b05921ef5abab0ab7f3d010556c15.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 sugar apple, 1 apples, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.270, 0.278, 0.455, 0.459], banana: [0.611, 0.370, 0.765, 0.580], sugar apple: [0.503, 0.536, 0.640, 0.670], apples: [0.463, 0.358, 0.597, 0.490], oren: [0.311, 0.442, 0.453, 0.591]"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "image": "c-558-_jpg.rf.877d393727d3b978c43ba58ec7c374d5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 apple, 1 oren, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.445, 0.348, 0.619, 0.594], pineapple: [0.392, 0.809, 0.633, 0.968], apples: [0.595, 0.244, 0.745, 0.398], oren: [0.581, 0.539, 0.713, 0.673], pear: [0.625, 0.400, 0.784, 0.552]"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "image": "b-1554-_jpg.rf.8452c1ad999b8d850649dd7233f95c2f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 sugar apple, 1 orange, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.188, 0.377, 0.473, 0.682], sugar apple: [0.016, 0.027, 0.277, 0.288], oren: [0.388, 0.011, 0.669, 0.290], banana: [0.520, 0.328, 0.819, 0.804], banana: [0.000, 0.416, 0.320, 0.877]"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "image": "b-1423-_jpg.rf.8730b28d2598db722e65f2508b612274.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 apples, 2 bananas, 1 sugar apple, 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.411, 0.134, 0.587, 0.322], apples: [0.291, 0.494, 0.505, 0.695], banana: [0.178, 0.245, 0.481, 0.531], banana: [0.441, 0.558, 0.765, 0.841], sugar apple: [0.470, 0.338, 0.644, 0.516], dragon fruit: [0.661, 0.264, 0.906, 0.581]"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "image": "c-420-_jpg.rf.78005413b2514b8a144c8d906fdea178.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 apple, 1 sugar apple, 1 guava, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.338, 0.047, 0.614, 0.319], sugar apple: [0.403, 0.353, 0.602, 0.545], guava: [0.042, 0.220, 0.306, 0.459], banana: [0.680, 0.119, 0.916, 0.525]"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "image": "b-1816-_jpg.rf.9416a10b102b940925fd9fec59d4f45a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 1 sugar apple and 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.212, 0.511, 0.607, 0.812], banana: [0.602, 0.380, 0.863, 0.781], sugar apple: [0.552, 0.123, 0.784, 0.354], guava: [0.150, 0.116, 0.436, 0.433]"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "image": "b-1840-_jpg.rf.8af34f86f7e90eeee66b21b1ae67e3b2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.120, 0.552, 0.397, 0.819], sugar apple: [0.172, 0.230, 0.415, 0.448], banana: [0.452, 0.216, 0.884, 0.466], banana: [0.406, 0.497, 0.795, 0.783]"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "image": "b-1805-_jpg.rf.94bd179c643ef66d46d83175e784e4d0.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 1 sugar apple and 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.145, 0.578, 0.516, 0.862], banana: [0.533, 0.522, 0.769, 0.877], sugar apple: [0.537, 0.289, 0.768, 0.527], guava: [0.094, 0.230, 0.420, 0.569]"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "image": "b-1904-_jpg.rf.880f4e4b5c7b6bb1a95d05cbad0bac1d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.247, 0.434, 0.519, 0.641], pineapple: [0.509, 0.244, 0.740, 0.561], banana: [0.241, 0.286, 0.493, 0.447], pear: [0.467, 0.556, 0.641, 0.724]"
+            }
+        ]
+    },
+    {
+        "id": 161,
+        "image": "b-1430-_jpg.rf.89b2348b7dc01d1a1d7fe2230c6f3770.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.412, 0.695, 0.580, 0.880], apples: [0.338, 0.309, 0.534, 0.502], banana: [0.225, 0.453, 0.497, 0.748], banana: [0.509, 0.177, 0.784, 0.453], sugar apple: [0.484, 0.503, 0.648, 0.666], dragon fruit: [0.658, 0.450, 0.898, 0.748]"
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "image": "b-1684-_jpg.rf.85f67c786492aab7336095faeff8ca83.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 orange, 2 bananas, 1 sugar apple, and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "oren: [0.370, 0.672, 0.609, 0.908], banana: [0.627, 0.486, 0.948, 0.816], banana: [0.117, 0.087, 0.526, 0.460], sugar apple: [0.089, 0.527, 0.320, 0.748], apples: [0.397, 0.394, 0.649, 0.634]"
+            }
+        ]
+    },
+    {
+        "id": 163,
+        "image": "b-1792-_jpg.rf.8411ba5e17fc50131c788b818c518333.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 oren, 1 sugar apple, 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.364, 0.686, 0.597, 0.806], banana: [0.558, 0.405, 0.779, 0.580], oren: [0.384, 0.428, 0.541, 0.575], sugar apple: [0.273, 0.566, 0.405, 0.700], apples: [0.475, 0.580, 0.617, 0.727]"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "image": "c-207-_jpg.rf.8d1169c371a89c23c7b318e6c2288c5b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.231, 0.505, 0.563, 0.786], sugar apple: [0.589, 0.616, 0.738, 0.767], dragon fruit: [0.536, 0.263, 0.752, 0.474], banana: [0.294, 0.263, 0.481, 0.491], guava: [0.461, 0.419, 0.629, 0.570]"
+            }
+        ]
+    },
+    {
+        "id": 165,
+        "image": "c-202-_jpg.rf.958fb80127566ced744d8b835d266801.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.416, 0.398, 0.661, 0.624], pineapple: [0.200, 0.014, 0.669, 0.389], sugar apple: [0.083, 0.397, 0.302, 0.591], dragon fruit: [0.422, 0.622, 0.864, 0.917], banana: [0.703, 0.252, 0.994, 0.595]"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "image": "b-1654-_jpg.rf.8f4f0b1dbe431c4f98c9eccb076a8e3b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 sugar apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.661, 0.516, 1.000, 0.809], banana: [0.138, 0.227, 0.436, 0.640], apples: [0.467, 0.445, 0.734, 0.724], sugar apple: [0.823, 0.266, 1.000, 0.522], oren: [0.539, 0.105, 0.834, 0.431]"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "image": "b-1606-_jpg.rf.915a6ec6eca5c7f2ba23fc0b7b5cfe73.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 apples, 1 oren, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.089, 0.169, 0.384, 0.602], banana: [0.562, 0.134, 0.909, 0.541], apples: [0.416, 0.280, 0.677, 0.530], oren: [0.178, 0.631, 0.462, 0.908], sugar apple: [0.600, 0.677, 0.836, 0.922]"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "image": "c-83-_jpg.rf.862007e98e4c5bd9684dd38eaac0e846.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 orange, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.000, 0.242, 0.298, 0.660], oren: [0.392, 0.306, 0.654, 0.578], banana: [0.469, 0.002, 0.897, 0.314], pear: [0.320, 0.616, 0.582, 0.887]"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "image": "c-32-_jpg.rf.89c40d4a34eaba93aef8e140677459ac.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 banana, 1 oren, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.527, 0.362, 0.916, 0.793], dragon fruit: [0.022, 0.311, 0.289, 0.666], banana: [0.423, 0.161, 0.727, 0.394], oren: [0.333, 0.358, 0.552, 0.567], pear: [0.228, 0.623, 0.498, 0.876]"
+            }
+        ]
+    },
+    {
+        "id": 170,
+        "image": "c-97-_jpg.rf.98d49e7010e37bd361d564f63765ddc7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 pear, 1 dragon fruit, 1 orange, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.345, 0.216, 0.648, 0.423], pear: [0.578, 0.411, 0.741, 0.565], dragon fruit: [0.403, 0.570, 0.631, 0.720], oren: [0.392, 0.427, 0.546, 0.569], banana: [0.239, 0.348, 0.378, 0.572]"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "image": "c-347-_jpg.rf.9769cfcdaaa14bf903f8ae3618306582.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 pear, 1 pineapple, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.470, 0.316, 0.684, 0.537], dragon fruit: [0.720, 0.178, 0.988, 0.495], pear: [0.450, 0.061, 0.671, 0.280], pineapple: [0.098, 0.197, 0.411, 0.702], banana: [0.434, 0.592, 0.816, 0.842]"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "image": "b-1863-_jpg.rf.99a138334785b4f1acf20b5f8325b810.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.278, 0.416, 0.427, 0.589], banana: [0.591, 0.441, 0.766, 0.677], banana: [0.402, 0.567, 0.575, 0.766], guava: [0.430, 0.287, 0.639, 0.480]"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "image": "b-1997-_jpg.rf.952cf7738673393c11abc163ad56563c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.170, 0.302, 0.656, 0.588], pineapple: [0.675, 0.152, 0.999, 0.634], banana: [0.273, 0.102, 0.660, 0.301], pear: [0.458, 0.567, 0.748, 0.855]"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "image": "b-1855-_jpg.rf.9e2f127e764726f0746c86a39ea41a12.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.242, 0.255, 0.396, 0.406], banana: [0.347, 0.436, 0.546, 0.734], banana: [0.566, 0.311, 0.760, 0.578], guava: [0.433, 0.116, 0.634, 0.308]"
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "image": "b-1730-_jpg.rf.9beb3aa0ddef71fde97fdb4ebdf19f7a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 sugar apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.223, 0.566, 0.661, 0.787], banana: [0.153, 0.002, 0.569, 0.242], apples: [0.319, 0.291, 0.569, 0.536], sugar apple: [0.664, 0.406, 0.926, 0.652], oren: [0.555, 0.033, 0.841, 0.314]"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "image": "c-161-_jpg.rf.972f4719e6dbf1cc631285b273dabe44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 banana, 1 guava, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.345, 0.002, 0.905, 0.372], sugar apple: [0.781, 0.331, 0.993, 0.530], banana: [0.113, 0.237, 0.360, 0.595], guava: [0.436, 0.388, 0.684, 0.613], dragon fruit: [0.287, 0.597, 0.687, 0.854]"
+            }
+        ]
+    },
+    {
+        "id": 177,
+        "image": "d-89-_jpg.rf.98e0319399d88619132520a722abeccc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 guava and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.573, 0.580, 0.838, 0.803], guava: [0.217, 0.509, 0.450, 0.702], pineapple: [0.352, 0.133, 0.876, 0.445]"
+            }
+        ]
+    },
+    {
+        "id": 178,
+        "image": "c-194-_jpg.rf.a06895470b48bcd4ee199cbb36f81f9f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 guava, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.134, 0.361, 0.351, 0.555], dragon fruit: [0.569, 0.264, 0.920, 0.565], guava: [0.434, 0.480, 0.667, 0.701], pineapple: [0.130, 0.619, 0.534, 0.998]"
+            }
+        ]
+    },
+    {
+        "id": 179,
+        "image": "c-534-_jpg.rf.9bb12e199f4f175f41f1c30e104843c1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 pineapple, 1 sugar apple, 1 apple, 1 guava, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.522, 0.592, 0.883, 0.891], sugar apple: [0.306, 0.397, 0.455, 0.527], apples: [0.461, 0.333, 0.615, 0.472], guava: [0.472, 0.497, 0.640, 0.662], banana: [0.264, 0.263, 0.514, 0.433]"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "image": "b-1309-_jpg.rf.951126ba0ea96ede60b77b06c0f1f4e5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 sugar apple, 3 apples, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.577, 0.597, 0.920, 0.852], sugar apple: [0.611, 0.383, 0.818, 0.582], apples: [0.761, 0.239, 1.000, 0.472], apples: [0.388, 0.306, 0.609, 0.525], apples: [0.142, 0.438, 0.435, 0.793], banana: [0.519, 0.073, 0.923, 0.304]"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "image": "b-1408-_jpg.rf.a509f2dc8e13b32a007e8427b97cf9fd.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.308, 0.586, 0.659, 0.735], banana: [0.536, 0.253, 0.933, 0.517], apples: [0.558, 0.453, 0.748, 0.648], apples: [0.070, 0.522, 0.282, 0.721], sugar apple: [0.312, 0.412, 0.491, 0.588], dragon fruit: [0.084, 0.156, 0.484, 0.452]"
+            }
+        ]
+    },
+    {
+        "id": 182,
+        "image": "b-1347-_jpg.rf.8e6cf81d257b442c1a2cfc6e18ecf582.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 bananas and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.214, 0.461, 0.447, 0.673], apples: [0.256, 0.166, 0.439, 0.351], apples: [0.589, 0.398, 0.743, 0.559], banana: [0.466, 0.558, 0.749, 0.659], banana: [0.478, 0.269, 0.771, 0.387], sugar apple: [0.394, 0.364, 0.541, 0.520]"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "image": "b-1462-_jpg.rf.a4c0deee79be335831a5aca4c6a9d1e5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 2 apples and 1 sugar apple and 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.697, 0.603, 1.000, 0.817], banana: [0.475, 0.153, 0.992, 0.459], apples: [0.766, 0.359, 0.998, 0.605], apples: [0.155, 0.206, 0.422, 0.468], sugar apple: [0.467, 0.419, 0.693, 0.630], dragon fruit: [0.287, 0.609, 0.648, 0.864]"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "image": "b-1704-_jpg.rf.99a1096d954c88e1c8bc8a135bd08b41.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 orange, 1 apple, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.180, 0.537, 0.605, 0.857], banana: [0.566, 0.109, 0.887, 0.395], oren: [0.109, 0.264, 0.364, 0.521], apples: [0.439, 0.278, 0.684, 0.516], sugar apple: [0.309, 0.037, 0.509, 0.245]"
+            }
+        ]
+    },
+    {
+        "id": 185,
+        "image": "b-1990-_jpg.rf.a0f6e4c3ce5734dbc853d4bf3b6895f4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.409, 0.430, 0.823, 0.691], pineapple: [0.058, 0.300, 0.366, 0.757], banana: [0.334, 0.653, 0.685, 0.845], pear: [0.362, 0.161, 0.641, 0.418]"
+            }
+        ]
+    },
+    {
+        "id": 186,
+        "image": "c-7-_jpg.rf.af58b01364b62ba7d33f42d60a57218b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pineapple, 1 oren, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.072, 0.148, 0.382, 0.485], banana: [0.569, 0.155, 0.814, 0.489], pineapple: [0.412, 0.541, 0.910, 0.935], oren: [0.369, 0.353, 0.573, 0.560], pear: [0.141, 0.559, 0.395, 0.805]"
+            }
+        ]
+    },
+    {
+        "id": 187,
+        "image": "b-1949-_jpg.rf.9d4f7181090f81e6e30a85dab6d7d68f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 banana, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.403, 0.470, 0.776, 0.843], dragon fruit: [0.308, 0.242, 0.548, 0.506], banana: [0.139, 0.417, 0.416, 0.701], pear: [0.570, 0.241, 0.765, 0.440]"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "image": "b-1823-_jpg.rf.a74a8b6d47fd598269de1c07a3a79305.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.145, 0.173, 0.422, 0.464], banana: [0.603, 0.444, 0.880, 0.845], banana: [0.192, 0.578, 0.598, 0.873], sugar apple: [0.544, 0.181, 0.767, 0.386]"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "image": "c-257-_jpg.rf.9f270b5801e70d7f208b8dcb10339063.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.325, 0.641, 0.736, 0.898], guava: [0.342, 0.411, 0.552, 0.623], sugar apple: [0.067, 0.517, 0.264, 0.700]"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "image": "d-29-_jpg.rf.a479ba5ba2923637cbf3490bb7c03aca.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guava and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.581, 0.239, 0.834, 0.475], guava: [0.534, 0.555, 0.787, 0.798], pineapple: [0.127, 0.237, 0.468, 0.742]"
+            }
+        ]
+    },
+    {
+        "id": 191,
+        "image": "b-1957-_jpg.rf.a89806a4c668988e2d6e81b0390d24ab.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.419, 0.559, 0.652, 0.908], pineapple: [0.211, 0.173, 0.745, 0.486], banana: [0.134, 0.461, 0.355, 0.798], pear: [0.666, 0.486, 0.906, 0.705]"
+            }
+        ]
+    },
+    {
+        "id": 192,
+        "image": "c-97-_jpg.rf.ac191dd1446d7454d829fd9f7e8b0e5b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 pear, 1 dragon fruit, 1 oren, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.269, 0.220, 0.562, 0.420], pear: [0.180, 0.408, 0.341, 0.557], dragon fruit: [0.287, 0.559, 0.509, 0.706], oren: [0.369, 0.425, 0.518, 0.562], banana: [0.531, 0.348, 0.666, 0.562]"
+            }
+        ]
+    },
+    {
+        "id": 193,
+        "image": "b-1418-_jpg.rf.b000441ba255c9707a4cab4e52ff4c4b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.339, 0.711, 0.520, 0.903], apples: [0.555, 0.372, 0.773, 0.586], banana: [0.481, 0.569, 0.845, 0.809], banana: [0.302, 0.208, 0.739, 0.436], sugar apple: [0.348, 0.514, 0.531, 0.692], dragon fruit: [0.072, 0.400, 0.339, 0.784]"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "image": "d-22-_jpg.rf.ae460ddbc2d6715e529073fa84f34196.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guava and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.598, 0.450, 0.863, 0.707], guava: [0.555, 0.203, 0.793, 0.434], pineapple: [0.158, 0.230, 0.475, 0.684]"
+            }
+        ]
+    },
+    {
+        "id": 195,
+        "image": "b-1485-_jpg.rf.b007955988489fe0eaf3c43e2b981fa7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 1 dragon fruit, 1 sugar apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.741, 0.406, 0.971, 0.634], apples: [0.223, 0.519, 0.442, 0.735], dragon fruit: [0.373, 0.131, 0.708, 0.377], sugar apple: [0.467, 0.367, 0.645, 0.557], banana: [0.003, 0.269, 0.354, 0.603], banana: [0.373, 0.491, 0.739, 0.870]"
+            }
+        ]
+    },
+    {
+        "id": 196,
+        "image": "c-440-_jpg.rf.a8a004a0d04d02bf95282d374a81564f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.366, 0.520, 0.582, 0.744], guava: [0.097, 0.314, 0.345, 0.569], apples: [0.403, 0.266, 0.639, 0.498], banana: [0.678, 0.412, 0.909, 0.795]"
+            }
+        ]
+    },
+    {
+        "id": 197,
+        "image": "c-329-_jpg.rf.a7f5a73219907f8c300a2784d5c9ba85.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 banana, 1 pear, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.486, 0.131, 0.805, 0.475], guava: [0.291, 0.388, 0.519, 0.595], banana: [0.087, 0.098, 0.330, 0.438], pear: [0.497, 0.550, 0.725, 0.778], pineapple: [0.009, 0.487, 0.380, 0.901]"
+            }
+        ]
+    },
+    {
+        "id": 198,
+        "image": "c-245-_jpg.rf.b47ffcc12411761099cd3bcb8524913d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 dragon fruit, 1 pineapple, 1 sugar apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.375, 0.384, 0.591, 0.581], dragon fruit: [0.080, 0.244, 0.352, 0.595], pineapple: [0.598, 0.391, 0.935, 0.770], sugar apple: [0.419, 0.097, 0.645, 0.291], banana: [0.278, 0.606, 0.608, 0.818]"
+            }
+        ]
+    },
+    {
+        "id": 199,
+        "image": "c-520-_jpg.rf.afadad7d4c254239a035e18a1deed8d3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 apples, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.198, 0.248, 0.366, 0.427], guava: [0.452, 0.314, 0.630, 0.506], apples: [0.239, 0.450, 0.427, 0.620], pineapple: [0.658, 0.248, 0.908, 0.606], banana: [0.013, 0.275, 0.209, 0.578]"
+            }
+        ]
+    },
+    {
+        "id": 200,
+        "image": "c-123-_jpg.rf.b1bfa26c5ee7598c9c6d474270c8f891.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 banana, 1 pineapple, 1 dragon fruit, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.377, 0.108, 0.576, 0.315], banana: [0.314, 0.666, 0.622, 0.865], pineapple: [0.548, 0.255, 0.868, 0.730], dragon fruit: [0.056, 0.392, 0.304, 0.729], guava: [0.302, 0.419, 0.520, 0.620]"
+            }
+        ]
+    },
+    {
+        "id": 201,
+        "image": "b-1575-_jpg.rf.b3cd56492b02d31259286f4066728d2e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 apples, 1 sugar apple, 1 oren, 2 bananas"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.455, 0.534, 0.729, 0.806], sugar apple: [0.583, 0.120, 0.823, 0.375], oren: [0.156, 0.194, 0.457, 0.482], banana: [0.102, 0.566, 0.457, 0.970], banana: [0.700, 0.497, 0.952, 0.944]"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "image": "b-1996-_jpg.rf.b0b8a3f639036952de667c45aae5e0ee.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 banana, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.300, 0.352, 0.786, 0.671], pear: [0.192, 0.653, 0.507, 0.966], banana: [0.256, 0.155, 0.684, 0.369], pineapple: [0.000, 0.197, 0.259, 0.748]"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "image": "b-1317-_jpg.rf.a58b4da452dcd02916204aeda2245e97.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 apples, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.438, 0.173, 0.690, 0.359], apples: [0.206, 0.328, 0.384, 0.498], apples: [0.455, 0.481, 0.628, 0.662], sugar apple: [0.377, 0.342, 0.537, 0.503], banana: [0.116, 0.481, 0.433, 0.724], banana: [0.662, 0.417, 0.872, 0.768]"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "image": "b-1347-_jpg.rf.b68afc9ccc099e5c4d4fc95f4878d653.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 bananas and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.208, 0.469, 0.441, 0.680], apples: [0.250, 0.173, 0.433, 0.361], apples: [0.584, 0.406, 0.738, 0.567], banana: [0.458, 0.566, 0.744, 0.666], banana: [0.473, 0.278, 0.764, 0.396], sugar apple: [0.389, 0.369, 0.536, 0.525]"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "image": "b-1570-_jpg.rf.b9a3c9dc9a28125eda6b75814e7322e9.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 apples, 1 oren, 2 bananas"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.555, 0.241, 0.829, 0.517], oren: [0.156, 0.380, 0.433, 0.656], banana: [0.258, 0.003, 0.688, 0.291], banana: [0.781, 0.208, 1.000, 0.638]"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "image": "b-1493-_jpg.rf.b65bdae3728d6b3e333c9bed312e0ced.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 bananas, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.470, 0.498, 0.898, 0.802], banana: [0.002, 0.428, 0.451, 0.698], banana: [0.236, 0.000, 0.719, 0.278], sugar apple: [0.486, 0.281, 0.722, 0.500], apples: [0.764, 0.059, 1.000, 0.341], apples: [0.161, 0.189, 0.416, 0.425]"
+            }
+        ]
+    },
+    {
+        "id": 207,
+        "image": "c-190-_jpg.rf.afcb2529fd69ae5597ccac574a6459e4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 sugar apple, 1 pineapple, 1 guava, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.141, 0.503, 0.436, 0.770], sugar apple: [0.641, 0.561, 0.830, 0.734], pineapple: [0.525, 0.092, 0.869, 0.498], guava: [0.377, 0.386, 0.588, 0.591], banana: [0.163, 0.161, 0.470, 0.387]"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "image": "c-488-_jpg.rf.bb86b09171ed4e6c2846d08013ed5763.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.473, 0.205, 0.719, 0.441], dragon fruit: [0.131, 0.202, 0.451, 0.598], apples: [0.306, 0.031, 0.534, 0.255], oren: [0.530, 0.450, 0.791, 0.720]"
+            }
+        ]
+    },
+    {
+        "id": 209,
+        "image": "c-212-_jpg.rf.bfb364c4d568c695e9a4d66749461013.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 guava, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.489, 0.598, 0.638, 0.741], pineapple: [0.186, 0.434, 0.474, 0.730], dragon fruit: [0.500, 0.237, 0.723, 0.478], guava: [0.430, 0.395, 0.586, 0.540], banana: [0.275, 0.230, 0.472, 0.424]"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "image": "b-1436-_jpg.rf.bf194cb36199878439bbe05c29575d39.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.212, 0.106, 0.424, 0.327], apples: [0.527, 0.509, 0.752, 0.721], banana: [0.405, 0.275, 0.816, 0.480], banana: [0.297, 0.748, 0.741, 0.922], sugar apple: [0.287, 0.397, 0.475, 0.589], dragon fruit: [0.009, 0.389, 0.295, 0.791]"
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "image": "b-1566-_jpg.rf.bc1398dd5342863ea126c748f1b8ffdf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.433, 0.430, 0.736, 0.749], banana: [0.233, 0.773, 0.695, 0.999], banana: [0.609, 0.200, 0.991, 0.700], oren: [0.000, 0.433, 0.281, 0.750], sugar apple: [0.155, 0.061, 0.448, 0.345]"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "image": "b-1828-_jpg.rf.add4e0dd79aa39bff18153bee3313fdf.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 guava, 2 banana, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.620, 0.536, 0.906, 0.822], guava: [0.286, 0.616, 0.505, 0.823], banana: [0.419, 0.120, 0.854, 0.438], banana: [0.142, 0.152, 0.433, 0.558], sugar apple: [0.286, 0.614, 0.509, 0.826]"
+            }
+        ]
+    },
+    {
+        "id": 213,
+        "image": "c-263-_jpg.rf.c16158b7b8ba4a1503d01acd2573dbe4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 dragon fruit, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.169, 0.508, 0.354, 0.688], guava: [0.439, 0.480, 0.667, 0.674], dragon fruit: [0.286, 0.181, 0.683, 0.441], pineapple: [0.373, 0.684, 0.780, 0.997], banana: [0.692, 0.356, 0.916, 0.686]"
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "image": "b-1391-_jpg.rf.c23eff9dbe66bd9cb263e94e8ac08e37.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 2 apples and 1 sugar apple and 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.441, 0.284, 0.767, 0.412], banana: [0.422, 0.605, 0.727, 0.723], apples: [0.548, 0.419, 0.731, 0.602], apples: [0.242, 0.620, 0.418, 0.794], sugar apple: [0.356, 0.470, 0.517, 0.629], dragon fruit: [0.184, 0.317, 0.427, 0.545]"
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "image": "b-1622-_jpg.rf.b82327ccb20e503d13c58f9c325c278a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 oren, and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.303, 0.669, 0.716, 0.912], banana: [0.483, 0.002, 0.932, 0.381], sugar apple: [0.064, 0.486, 0.300, 0.722], oren: [0.130, 0.205, 0.406, 0.469], apples: [0.434, 0.412, 0.684, 0.665]"
+            }
+        ]
+    },
+    {
+        "id": 216,
+        "image": "b-1327-_jpg.rf.b65d5b9ce3c58e9d84e4f511602c96f8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 banana and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.263, 0.189, 0.563, 0.425], apples: [0.117, 0.556, 0.367, 0.802], apples: [0.659, 0.436, 0.892, 0.652], banana: [0.598, 0.225, 0.952, 0.424], banana: [0.445, 0.614, 0.871, 0.819], sugar apple: [0.408, 0.406, 0.586, 0.601]"
+            }
+        ]
+    },
+    {
+        "id": 217,
+        "image": "b-1527-_jpg.rf.bb10c4977b0f587600683c25ca726c44.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 sugar apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.420, 0.258, 0.692, 0.530], banana: [0.681, 0.169, 0.941, 0.626], banana: [0.116, 0.048, 0.495, 0.466], sugar apple: [0.425, 0.695, 0.655, 0.952], oren: [0.053, 0.486, 0.339, 0.760]"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "image": "c-146-_jpg.rf.bc6051745a7805fca3402d23e1366d84.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.688, 0.342, 0.830, 0.474], pineapple: [0.381, 0.212, 0.725, 0.417], dragon fruit: [0.434, 0.567, 0.677, 0.730], banana: [0.297, 0.403, 0.431, 0.627], guava: [0.475, 0.431, 0.643, 0.576]"
+            }
+        ]
+    },
+    {
+        "id": 219,
+        "image": "b-1602-_jpg.rf.c46a958d419d9c50f8ada7b4e1a7445f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 oren, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.034, 0.416, 0.354, 0.902], banana: [0.552, 0.483, 0.924, 0.938], apples: [0.389, 0.478, 0.666, 0.757], oren: [0.150, 0.098, 0.436, 0.380], sugar apple: [0.575, 0.086, 0.813, 0.334]"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "image": "c-480-_jpg.rf.bf64f28d5d9487422ee0cc5a0018f9b6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear and 1 apples and 1 dragon fruit and 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.345, 0.320, 0.634, 0.575], apples: [0.048, 0.416, 0.312, 0.644], dragon fruit: [0.228, 0.614, 0.670, 0.927], oren: [0.648, 0.406, 0.927, 0.654]"
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "image": "b-1994-_jpg.rf.ad78ca6a4e94d42ebcca4496c186e9a6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.430, 0.409, 0.870, 0.677], pineapple: [0.092, 0.297, 0.402, 0.766], pear: [0.388, 0.130, 0.664, 0.399], banana: [0.392, 0.652, 0.748, 0.851]"
+            }
+        ]
+    },
+    {
+        "id": 222,
+        "image": "b-1399-_jpg.rf.cfce4aa8ae2e43df46e4bb258712f5f6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 2 banana, 1 dragon fruit, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.502, 0.348, 0.689, 0.531], banana: [0.180, 0.588, 0.572, 0.737], banana: [0.255, 0.212, 0.610, 0.333], dragon fruit: [0.611, 0.430, 0.885, 0.764], apples: [0.645, 0.142, 0.847, 0.344], apples: [0.236, 0.342, 0.428, 0.547]"
+            }
+        ]
+    },
+    {
+        "id": 223,
+        "image": "b-1484-_jpg.rf.b6b1d179ad423fc99328cc3dd48a8f9a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 3 banana, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.002, 0.270, 0.341, 0.561], banana: [0.345, 0.527, 0.706, 0.880], banana: [0.358, 0.133, 0.692, 0.373], sugar apple: [0.411, 0.377, 0.632, 0.564], apples: [0.722, 0.422, 0.952, 0.648], apples: [0.170, 0.523, 0.406, 0.766]"
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "image": "c-469-_jpg.rf.c4b22e55c8e06be43f1c05b836aaabb1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.392, 0.592, 0.700, 0.854], dragon fruit: [0.327, 0.241, 0.781, 0.522], oren: [0.723, 0.562, 1.000, 0.827], apples: [0.111, 0.445, 0.380, 0.698]"
+            }
+        ]
+    },
+    {
+        "id": 225,
+        "image": "d-73-_jpg.rf.c3fe81111a3e3b70901de6021ecf5b7b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple and 2 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.359, 0.609, 0.795, 0.902], guava: [0.514, 0.309, 0.822, 0.555], guava: [0.094, 0.409, 0.361, 0.626]"
+            }
+        ]
+    },
+    {
+        "id": 226,
+        "image": "b-1473-_jpg.rf.cfdd74bc4295f3767a31deda3170d553.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 2 apples and 1 sugar apple and 1 dragon fruit"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.655, 0.195, 0.998, 0.455], banana: [0.380, 0.673, 0.894, 0.914], apples: [0.689, 0.478, 0.956, 0.726], apples: [0.072, 0.591, 0.336, 0.867], sugar apple: [0.391, 0.411, 0.614, 0.632], dragon fruit: [0.209, 0.092, 0.609, 0.405]"
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "image": "b-1804-_jpg.rf.d41ec1970d1fbadf7c68e11ec2a00f6d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.155, 0.472, 0.431, 0.794], sugar apple: [0.550, 0.502, 0.766, 0.720], banana: [0.534, 0.189, 0.729, 0.502], banana: [0.192, 0.189, 0.512, 0.461]"
+            }
+        ]
+    },
+    {
+        "id": 228,
+        "image": "c-139-_jpg.rf.cc1c86745778e42421bebc93878738c4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.252, 0.473, 0.557, 0.695], sugar apple: [0.577, 0.523, 0.699, 0.646], dragon fruit: [0.423, 0.255, 0.656, 0.411], banana: [0.275, 0.281, 0.417, 0.473], guava: [0.425, 0.380, 0.579, 0.512]"
+            }
+        ]
+    },
+    {
+        "id": 229,
+        "image": "c-498-_jpg.rf.c953d01ad2927141e7c8a1385d5cca0a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.302, 0.456, 0.766, 0.730], pear: [0.352, 0.198, 0.623, 0.431], oren: [0.648, 0.194, 0.891, 0.427], apples: [0.106, 0.336, 0.361, 0.562]"
+            }
+        ]
+    },
+    {
+        "id": 230,
+        "image": "d-64-_jpg.rf.c36765651be1e0966fe4ea17f1c85cfa.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.492, 0.278, 0.798, 0.593], guava: [0.342, 0.777, 0.630, 0.998], pineapple: [0.000, 0.150, 0.322, 0.806]"
+            }
+        ]
+    },
+    {
+        "id": 231,
+        "image": "b-1965-_jpg.rf.c5cfd5a0a0844d1f86208d8677634d66.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pear, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.487, 0.578, 0.776, 0.931], banana: [0.202, 0.578, 0.452, 0.927], pear: [0.709, 0.403, 0.959, 0.655], pineapple: [0.153, 0.227, 0.704, 0.573]"
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "image": "c-56-_jpg.rf.cc251f6088bdaf17177c401e1e6ac72d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 oren, 1 dragon fruit, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.091, 0.277, 0.348, 0.527], oren: [0.389, 0.433, 0.608, 0.659], dragon fruit: [0.397, 0.114, 0.777, 0.395], pineapple: [0.072, 0.572, 0.461, 0.966], banana: [0.511, 0.555, 0.826, 0.807]"
+            }
+        ]
+    },
+    {
+        "id": 233,
+        "image": "b-1481-_jpg.rf.c35e23fa3a3081920b741477f8b1f655.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 banana, 1 dragon fruit, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.002, 0.236, 0.359, 0.524], banana: [0.258, 0.578, 0.709, 0.910], dragon fruit: [0.389, 0.119, 0.781, 0.395], sugar apple: [0.450, 0.395, 0.649, 0.592], apples: [0.150, 0.511, 0.391, 0.741], apples: [0.727, 0.487, 0.991, 0.745]"
+            }
+        ]
+    },
+    {
+        "id": 234,
+        "image": "b-1719-_jpg.rf.c391cc7687ba5b666f37e58dc2f9a926.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.138, 0.750, 0.577, 0.952], banana: [0.037, 0.130, 0.506, 0.397], apples: [0.227, 0.481, 0.496, 0.748], oren: [0.487, 0.244, 0.780, 0.520], sugar apple: [0.595, 0.606, 0.852, 0.856]"
+            }
+        ]
+    },
+    {
+        "id": 235,
+        "image": "b-1765-_jpg.rf.c6c41d648f955eb6d44ba9145c025096.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 sugar apple, 1 apples, and 1 oranges."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.525, 0.514, 0.730, 0.750], banana: [0.188, 0.369, 0.330, 0.638], sugar apple: [0.281, 0.247, 0.459, 0.410], apples: [0.345, 0.486, 0.506, 0.640], oren: [0.511, 0.336, 0.689, 0.526]"
+            }
+        ]
+    },
+    {
+        "id": 236,
+        "image": "c-474-_jpg.rf.cce1cf6707643219262eb3804bdc7f79.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.275, 0.445, 0.667, 0.702], pear: [0.328, 0.138, 0.612, 0.390], oren: [0.637, 0.178, 0.897, 0.416], apples: [0.077, 0.283, 0.327, 0.511]"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "image": "c-419-_jpg.rf.d9a54c7fb5d2f0347e56f192059c525c.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 sugar apple and 1 apples and 1 guava and 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.356, 0.361, 0.568, 0.573], apples: [0.283, 0.061, 0.569, 0.328], guava: [0.000, 0.230, 0.247, 0.484], banana: [0.648, 0.116, 0.887, 0.558]"
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "image": "c-227-_jpg.rf.deda73e5e1cd0dba0e5036c8a90f873f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 pineapple, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.311, 0.358, 0.448, 0.490], dragon fruit: [0.595, 0.425, 0.792, 0.697], pineapple: [0.236, 0.506, 0.450, 0.795], guava: [0.452, 0.498, 0.608, 0.655]"
+            }
+        ]
+    },
+    {
+        "id": 239,
+        "image": "c-121-_jpg.rf.d9c94d508490bb0f9fb65dd7e83b8179.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 banana, 1 pineapple, 1 dragon fruit, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.398, 0.073, 0.603, 0.283], banana: [0.353, 0.647, 0.666, 0.846], pineapple: [0.102, 0.225, 0.428, 0.705], dragon fruit: [0.681, 0.356, 0.927, 0.702], guava: [0.458, 0.384, 0.679, 0.603]"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "image": "b-1468-_jpg.rf.d76e3b51fe584518cf225d7589e039d3.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 bananas, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.383, 0.530, 0.688, 0.766], banana: [0.000, 0.477, 0.344, 0.700], banana: [0.200, 0.116, 0.626, 0.419], sugar apple: [0.373, 0.364, 0.578, 0.561], apples: [0.119, 0.272, 0.342, 0.484], apples: [0.648, 0.217, 0.879, 0.450]"
+            }
+        ]
+    },
+    {
+        "id": 241,
+        "image": "b-1306-_jpg.rf.dc15fd2fbad6423838c430243ea0ad0a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 bananas and 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.559, 0.609, 0.910, 0.895], sugar apple: [0.527, 0.388, 0.755, 0.611], banana: [0.061, 0.547, 0.400, 0.902], banana: [0.342, 0.055, 0.797, 0.312], apples: [0.656, 0.202, 0.940, 0.469], apples: [0.263, 0.350, 0.508, 0.595]"
+            }
+        ]
+    },
+    {
+        "id": 242,
+        "image": "d-20-_jpg.rf.d9bb0a440f25754f83aee7839d63a17f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two green guavas and one pineapple on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.128, 0.477, 0.390, 0.720], guava: [0.203, 0.239, 0.434, 0.463], pineapple: [0.508, 0.250, 0.813, 0.707]"
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "image": "b-1471-_jpg.rf.d98073764c42fb793e76d6057688d47d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 dragon fruit, 1 sugar apple, 2 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.630, 0.577, 1.000, 0.838], banana: [0.345, 0.081, 0.894, 0.338], dragon fruit: [0.186, 0.622, 0.578, 0.934], sugar apple: [0.359, 0.383, 0.583, 0.604], apples: [0.669, 0.291, 0.938, 0.541], apples: [0.017, 0.138, 0.303, 0.421]"
+            }
+        ]
+    },
+    {
+        "id": 244,
+        "image": "b-1329-_jpg.rf.ca46e500492a68fe5507fa8a6954eb22.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 2 apples, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.245, 0.594, 0.529, 0.812], apples: [0.108, 0.212, 0.353, 0.438], apples: [0.659, 0.366, 0.859, 0.575], sugar apple: [0.400, 0.420, 0.573, 0.594], banana: [0.592, 0.586, 0.948, 0.778], banana: [0.448, 0.202, 0.857, 0.396]"
+            }
+        ]
+    },
+    {
+        "id": 245,
+        "image": "b-1413-_jpg.rf.e02486b82e53b104aace3c65ca8adebe.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 2 apples, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.073, 0.595, 0.470, 0.828], banana: [0.128, 0.200, 0.619, 0.423], apples: [0.452, 0.725, 0.639, 0.924], apples: [0.133, 0.384, 0.363, 0.603], sugar apple: [0.412, 0.508, 0.600, 0.698], dragon fruit: [0.608, 0.369, 0.887, 0.787]"
+            }
+        ]
+    },
+    {
+        "id": 246,
+        "image": "b-1483-_jpg.rf.de6ee0b840dc8dcb315a432df3ce484b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 1 sugar apple, 1 dragon fruit, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.745, 0.259, 1.000, 0.509], apples: [0.148, 0.202, 0.403, 0.438], sugar apple: [0.430, 0.378, 0.658, 0.595], dragon fruit: [0.373, 0.584, 0.766, 0.861], banana: [0.000, 0.411, 0.336, 0.723], banana: [0.306, 0.036, 0.734, 0.416]"
+            }
+        ]
+    },
+    {
+        "id": 247,
+        "image": "b-1947-_jpg.rf.d6fbc6bed033bd2677963c19f40c65f2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 banana, 1 pear"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.434, 0.448, 0.778, 0.795], dragon fruit: [0.325, 0.247, 0.563, 0.497], banana: [0.183, 0.409, 0.440, 0.673], pear: [0.581, 0.239, 0.766, 0.420]"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "image": "b-1886-_jpg.rf.c639b625e7ed2f2150604121c0f85572.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.378, 0.537, 0.748, 0.855], dragon fruit: [0.197, 0.377, 0.459, 0.617], pear: [0.158, 0.614, 0.362, 0.787], banana: [0.427, 0.323, 0.650, 0.569]"
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "image": "d-74-_jpg.rf.e086f3af6ad57ae8f88f475bd23b9bb6.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 guava and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.467, 0.441, 0.787, 0.698], guava: [0.025, 0.361, 0.311, 0.589], pineapple: [0.303, 0.059, 0.774, 0.370]"
+            }
+        ]
+    },
+    {
+        "id": 250,
+        "image": "b-1687-_jpg.rf.dd8074582ea3599fc6233a4c9ff2bd91.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.250, 0.222, 0.445, 0.409], oren: [0.534, 0.153, 0.755, 0.370], banana: [0.731, 0.302, 0.984, 0.667], banana: [0.200, 0.483, 0.481, 0.865], apples: [0.470, 0.408, 0.701, 0.634]"
+            }
+        ]
+    },
+    {
+        "id": 251,
+        "image": "b-1435-_jpg.rf.e1abac7f557ec5b665e63158d7799c50.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.484, 0.069, 0.665, 0.256], apples: [0.234, 0.428, 0.427, 0.606], banana: [0.173, 0.212, 0.517, 0.409], banana: [0.266, 0.609, 0.627, 0.770], sugar apple: [0.456, 0.322, 0.624, 0.487], dragon fruit: [0.627, 0.303, 0.865, 0.630]"
+            }
+        ]
+    },
+    {
+        "id": 252,
+        "image": "c-151-_jpg.rf.e5ee728c0ba925c4156cb4c94b1b8a9e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.441, 0.577, 0.880, 0.844], sugar apple: [0.814, 0.484, 0.995, 0.648], dragon fruit: [0.498, 0.180, 0.787, 0.379], banana: [0.319, 0.347, 0.489, 0.606], guava: [0.548, 0.377, 0.755, 0.555]"
+            }
+        ]
+    },
+    {
+        "id": 253,
+        "image": "b-1668-_jpg.rf.e4a7b2166a781fbdb5610b9b6010c275.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.144, 0.178, 0.447, 0.495], banana: [0.741, 0.352, 0.955, 0.751], apples: [0.444, 0.280, 0.711, 0.556], oren: [0.170, 0.495, 0.469, 0.801], sugar apple: [0.498, 0.645, 0.777, 0.922]"
+            }
+        ]
+    },
+    {
+        "id": 254,
+        "image": "b-1887-_jpg.rf.e26ea4c2bfc6c7bbf75f275b77e4f637.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 banana, and 1 dragon fruit and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.464, 0.453, 0.820, 0.752], pear: [0.236, 0.512, 0.438, 0.683], dragon fruit: [0.312, 0.297, 0.536, 0.523], banana: [0.517, 0.242, 0.719, 0.473]"
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "image": "c-52-_jpg.rf.ddea8c03135a3b14b07feb3537c3ceaa.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pear, 1 pineapple, and 1 oren."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.177, 0.066, 0.571, 0.392], banana: [0.237, 0.577, 0.601, 0.805], pear: [0.667, 0.161, 0.948, 0.420], pineapple: [0.653, 0.450, 0.999, 0.897], oren: [0.441, 0.400, 0.673, 0.619]"
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "image": "c-136-_jpg.rf.e849e5b086b535b8ce42f2eb8b28be13.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 banana, 1 dragon fruit, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.516, 0.561, 0.665, 0.703], pineapple: [0.173, 0.394, 0.493, 0.704], banana: [0.261, 0.191, 0.460, 0.395], dragon fruit: [0.509, 0.212, 0.726, 0.431], guava: [0.427, 0.358, 0.595, 0.514]"
+            }
+        ]
+    },
+    {
+        "id": 257,
+        "image": "b-1691-_jpg.rf.db2e34287f75363c2717dd403dd7da8d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 orange, 1 sugar apple, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.659, 0.416, 0.895, 0.820], banana: [0.108, 0.358, 0.341, 0.759], oren: [0.264, 0.164, 0.495, 0.390], sugar apple: [0.592, 0.161, 0.791, 0.366], apples: [0.395, 0.408, 0.628, 0.641]"
+            }
+        ]
+    },
+    {
+        "id": 258,
+        "image": "b-1983-_jpg.rf.ea9fcbe0bf30196d7e22a5a873c99abc.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.194, 0.258, 0.535, 0.496], pineapple: [0.536, 0.289, 0.877, 0.664], pear: [0.255, 0.502, 0.505, 0.716], banana: [0.392, 0.158, 0.666, 0.367]"
+            }
+        ]
+    },
+    {
+        "id": 259,
+        "image": "d-47-_jpg.rf.eb699935caa49edbc1aaf81ffb59c818.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " Two guava, one whole, one cut, on a speckled surface."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.633, 0.225, 0.883, 0.424], guava: [0.327, 0.102, 0.523, 0.301], pineapple: [0.261, 0.352, 0.720, 0.729]"
+            }
+        ]
+    },
+    {
+        "id": 260,
+        "image": "c-167-_jpg.rf.e12aa36164daff3736272562d43ccf11.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 dragon fruit, 1 guava, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.036, 0.527, 0.245, 0.716], dragon fruit: [0.431, 0.619, 0.737, 0.891], guava: [0.325, 0.445, 0.558, 0.671], pineapple: [0.037, 0.086, 0.487, 0.512], banana: [0.567, 0.212, 0.913, 0.516]"
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "image": "b-1889-_jpg.rf.e641b656d94f808f391c408035ec17c8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 pear, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.272, 0.419, 0.633, 0.724], dragon fruit: [0.555, 0.283, 0.793, 0.506], pear: [0.644, 0.508, 0.848, 0.681], banana: [0.373, 0.228, 0.592, 0.440]"
+            }
+        ]
+    },
+    {
+        "id": 262,
+        "image": "c-305-_jpg.rf.e8f1870c2229eff0da1b3ce309d86026.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pineapple, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.736, 0.245, 1.000, 0.654], guava: [0.464, 0.400, 0.690, 0.612], pineapple: [0.081, 0.298, 0.411, 0.727], banana: [0.411, 0.625, 0.738, 0.846], pear: [0.447, 0.070, 0.721, 0.340]"
+            }
+        ]
+    },
+    {
+        "id": 263,
+        "image": "c-529-_jpg.rf.e4f84c9fcf974e5464e256e05f973fb2.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 guava, 1 banana, and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.591, 0.403, 0.720, 0.537], pineapple: [0.134, 0.456, 0.406, 0.738], guava: [0.375, 0.444, 0.531, 0.598], banana: [0.606, 0.270, 0.827, 0.463], apples: [0.472, 0.294, 0.623, 0.436]"
+            }
+        ]
+    },
+    {
+        "id": 264,
+        "image": "c-94-_jpg.rf.e201227ed929d825ca8781bdbc781b27.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 orange, 1 banana, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.411, 0.553, 0.699, 0.758], dragon fruit: [0.384, 0.295, 0.598, 0.432], oren: [0.422, 0.442, 0.556, 0.570], banana: [0.266, 0.478, 0.422, 0.666], pear: [0.575, 0.411, 0.724, 0.545]"
+            }
+        ]
+    },
+    {
+        "id": 265,
+        "image": "c-78-_jpg.rf.ee5043e0b63186d09e3fde1f0b690908.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pear, 1 oren, 1 pineapple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.031, 0.409, 0.324, 0.830], banana: [0.528, 0.569, 0.834, 0.934], pear: [0.225, 0.169, 0.466, 0.395], oren: [0.383, 0.392, 0.602, 0.628], pineapple: [0.489, 0.123, 0.936, 0.501]"
+            }
+        ]
+    },
+    {
+        "id": 266,
+        "image": "b-1555-_jpg.rf.e8ce6d77d77081a59614d7a3de6621fa.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 oren, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.430, 0.356, 0.694, 0.623], banana: [0.106, 0.237, 0.385, 0.697], banana: [0.567, 0.163, 0.945, 0.593], oren: [0.258, 0.714, 0.520, 0.991], sugar apple: [0.634, 0.725, 0.870, 0.966]"
+            }
+        ]
+    },
+    {
+        "id": 267,
+        "image": "c-538-_jpg.rf.eca7057f32136b3d3a518a51953ab720.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.317, 0.430, 0.572, 0.637], pear: [0.494, 0.300, 0.679, 0.473], oren: [0.645, 0.441, 0.828, 0.619], apples: [0.312, 0.263, 0.476, 0.414]"
+            }
+        ]
+    },
+    {
+        "id": 268,
+        "image": "c-234-_jpg.rf.eaa72c484129ab9e17e5d5eaac08b375.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 sugar apple, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.036, 0.486, 0.310, 0.805], guava: [0.305, 0.436, 0.521, 0.641], sugar apple: [0.136, 0.158, 0.348, 0.370], pineapple: [0.552, 0.180, 0.881, 0.660], banana: [0.431, 0.637, 0.713, 0.914]"
+            }
+        ]
+    },
+    {
+        "id": 269,
+        "image": "b-1815-_jpg.rf.ede249337e25239597d64e497dcdb4e8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 guava and 2 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.614, 0.183, 0.907, 0.517], guava: [0.214, 0.192, 0.471, 0.440], banana: [0.159, 0.483, 0.419, 0.906], banana: [0.436, 0.617, 0.842, 0.932]"
+            }
+        ]
+    },
+    {
+        "id": 270,
+        "image": "b-1699-_jpg.rf.df7a180d8dd4e0e3d4b96d9f9a3b30e8.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.394, 0.659, 0.598, 0.869], oren: [0.623, 0.450, 0.880, 0.702], banana: [0.553, 0.009, 0.895, 0.416], banana: [0.081, 0.358, 0.353, 0.728], apples: [0.330, 0.333, 0.573, 0.576]"
+            }
+        ]
+    },
+    {
+        "id": 271,
+        "image": "b-1518-_jpg.rf.e6ed38e1d342efd033939d898ff25cda.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 orange and 1 sugar apple and 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "oren: [0.745, 0.512, 0.998, 0.808], sugar apple: [0.398, 0.708, 0.655, 0.989], apples: [0.423, 0.287, 0.678, 0.537], banana: [0.155, 0.214, 0.436, 0.634], banana: [0.617, 0.119, 0.990, 0.463]"
+            }
+        ]
+    },
+    {
+        "id": 272,
+        "image": "c-85-_jpg.rf.ecdd80af5522544eb797bca58ce9a7d5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pineapple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.772, 0.405, 0.998, 0.770], banana: [0.273, 0.080, 0.670, 0.392], pineapple: [0.056, 0.384, 0.463, 0.884], oren: [0.461, 0.414, 0.699, 0.652]"
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "image": "b-1845-_jpg.rf.e8ee7f8e421e31a6a0a9d4f31303d51a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 sugar apple, and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.086, 0.106, 0.420, 0.412], sugar apple: [0.002, 0.509, 0.256, 0.764], banana: [0.263, 0.658, 0.748, 1.000], banana: [0.445, 0.273, 0.823, 0.677]"
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "image": "b-1676-_jpg.rf.ee41103f7fff6897ddb0e113b820aff1.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas, 1 apples, 1 sugar apple, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.270, 0.152, 0.571, 0.366], banana: [0.636, 0.445, 0.934, 0.782], apples: [0.467, 0.298, 0.691, 0.522], sugar apple: [0.342, 0.562, 0.561, 0.803], oren: [0.180, 0.356, 0.410, 0.595]"
+            }
+        ]
+    },
+    {
+        "id": 275,
+        "image": "b-1972-_jpg.rf.f2669aaee240d3179ab0078b0f0be989.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pineapple, 1 pear, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.411, 0.148, 0.716, 0.526], pineapple: [0.127, 0.534, 0.605, 0.916], pear: [0.623, 0.478, 0.885, 0.702], banana: [0.145, 0.138, 0.400, 0.505]"
+            }
+        ]
+    },
+    {
+        "id": 276,
+        "image": "c-454-_jpg.rf.f5809e30338ea9f455b2bfe671416753.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.341, 0.241, 0.605, 0.466], dragon fruit: [0.242, 0.497, 0.725, 0.773], oren: [0.630, 0.266, 0.880, 0.491], apples: [0.073, 0.341, 0.326, 0.573]"
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "image": "c-377-_jpg.rf.f49d612b1c59db4d2965f3394d1b9227.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 pineapple, 1 pear, 1 oren"
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.525, 0.314, 0.792, 0.550], pineapple: [0.139, 0.109, 0.562, 0.446], pear: [0.300, 0.466, 0.541, 0.709], oren: [0.559, 0.588, 0.827, 0.842]"
+            }
+        ]
+    },
+    {
+        "id": 278,
+        "image": "b-1312-_jpg.rf.f14ea0465a4024cc56e46d3306e77f8e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 2 apples and 2 banana and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.203, 0.181, 0.518, 0.376], apples: [0.056, 0.436, 0.266, 0.633], apples: [0.394, 0.489, 0.579, 0.681], banana: [0.064, 0.620, 0.412, 0.820], banana: [0.581, 0.312, 0.749, 0.634], sugar apple: [0.245, 0.392, 0.426, 0.558]"
+            }
+        ]
+    },
+    {
+        "id": 279,
+        "image": "c-118-_jpg.rf.f8d773afc9f91b353866bfc4b33c310e.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 guava, 1 pineapple, 1 banana, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.578, 0.175, 0.891, 0.550], guava: [0.466, 0.594, 0.709, 0.832], pineapple: [0.000, 0.472, 0.418, 0.900], banana: [0.145, 0.120, 0.395, 0.438], oren: [0.334, 0.347, 0.544, 0.563]"
+            }
+        ]
+    },
+    {
+        "id": 280,
+        "image": "b-1819-_jpg.rf.f1e72137819834c3b1beb9c57a95a656.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 bananas and 1 sugar apple and 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.369, 0.578, 0.775, 0.898], banana: [0.103, 0.448, 0.375, 0.862], sugar apple: [0.195, 0.177, 0.431, 0.420], guava: [0.552, 0.172, 0.826, 0.491]"
+            }
+        ]
+    },
+    {
+        "id": 281,
+        "image": "c-512-_jpg.rf.efcd5140fc858f4d635a9cb17271911b.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 1 sugar apple, 1 apple, 1 guava, 1 pineapple, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.575, 0.494, 0.762, 0.684], apples: [0.541, 0.255, 0.757, 0.459], guava: [0.303, 0.378, 0.502, 0.588], pineapple: [0.000, 0.230, 0.262, 0.660], banana: [0.808, 0.314, 0.998, 0.660]"
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "image": "b-1821-_jpg.rf.f92e1d8a95fc2248b97d954096686556.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 2 bananas, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.050, 0.577, 0.353, 0.911], banana: [0.550, 0.166, 0.848, 0.608], banana: [0.114, 0.130, 0.542, 0.447], sugar apple: [0.477, 0.669, 0.715, 0.899]"
+            }
+        ]
+    },
+    {
+        "id": 283,
+        "image": "b-1780-_jpg.rf.f90a6c7e303330264342ccc850676002.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 orange, 1 red apple, 1 green apple, 1 apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.345, 0.206, 0.636, 0.345], banana: [0.287, 0.548, 0.627, 0.705], oren: [0.153, 0.414, 0.345, 0.602], sugar apple: [0.159, 0.217, 0.327, 0.378], apples: [0.364, 0.322, 0.542, 0.495]"
+            }
+        ]
+    },
+    {
+        "id": 284,
+        "image": "b-1540-_jpg.rf.ef5083b653c21f881fc11396904bdfad.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 orange, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.300, 0.283, 0.581, 0.566], banana: [0.641, 0.206, 0.934, 0.661], banana: [0.041, 0.373, 0.495, 0.811], oren: [0.427, 0.000, 0.688, 0.199], sugar apple: [0.084, 0.000, 0.303, 0.247]"
+            }
+        ]
+    },
+    {
+        "id": 285,
+        "image": "c-214-_jpg.rf.f53370e1b73a54b34dcc81cdafa1cc92.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.497, 0.672, 0.665, 0.840], pineapple: [0.166, 0.441, 0.473, 0.796], dragon fruit: [0.561, 0.242, 0.806, 0.535], banana: [0.295, 0.225, 0.526, 0.444], guava: [0.452, 0.422, 0.632, 0.592]"
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "image": "c-96-_jpg.rf.fa028825751c61c80d5314df82c40863.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 dragon fruit, 1 orange, 1 pear, 1 banana, 1 banana"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.331, 0.637, 0.651, 0.863], dragon fruit: [0.330, 0.330, 0.584, 0.493], oren: [0.348, 0.495, 0.505, 0.645], pear: [0.547, 0.483, 0.705, 0.651], banana: [0.192, 0.503, 0.331, 0.739]"
+            }
+        ]
+    },
+    {
+        "id": 287,
+        "image": "c-398-_jpg.rf.f53aa64d05cbf97c730651b8ae6f25ee.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 guava, 1 oren, 1 pear, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "guava: [0.312, 0.528, 0.603, 0.858], oren: [0.631, 0.569, 0.917, 0.836], pear: [0.516, 0.280, 0.811, 0.552], pineapple: [0.000, 0.020, 0.483, 0.588]"
+            }
+        ]
+    },
+    {
+        "id": 288,
+        "image": "d-13-_jpg.rf.f961dd26c130e9cbf3260e467dbe1ac4.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple and 2 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.309, 0.489, 0.886, 0.816], guava: [0.588, 0.150, 0.862, 0.386], guava: [0.295, 0.158, 0.536, 0.381]"
+            }
+        ]
+    },
+    {
+        "id": 289,
+        "image": "b-1416-_jpg.rf.f21397d2c5654b78427621edfce4a27f.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 2 apples, 2 bananas, 1 sugar apple, and 1 dragon fruit."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.475, 0.797, 0.684, 0.998], apples: [0.158, 0.423, 0.403, 0.654], banana: [0.081, 0.647, 0.499, 0.902], banana: [0.175, 0.228, 0.689, 0.473], sugar apple: [0.447, 0.569, 0.652, 0.768], dragon fruit: [0.659, 0.425, 0.958, 0.870]"
+            }
+        ]
+    },
+    {
+        "id": 290,
+        "image": "b-1336-_jpg.rf.f2a322e724ab2a37bbf804ad1fa60229.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit and 1 sugar apple and 2 apples and 2 bananas."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.327, 0.634, 0.598, 0.817], sugar apple: [0.450, 0.473, 0.609, 0.630], apples: [0.205, 0.331, 0.402, 0.536], apples: [0.637, 0.414, 0.849, 0.595], banana: [0.466, 0.298, 0.798, 0.466], banana: [0.611, 0.588, 0.948, 0.763]"
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "image": "c-359-_jpg.rf.fc11e92a62364b28d226bc813192f600.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 guava, 1 orange, and 1 pineapple."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.442, 0.478, 0.699, 0.704], guava: [0.500, 0.212, 0.738, 0.448], oren: [0.700, 0.384, 0.945, 0.594], pineapple: [0.109, 0.197, 0.422, 0.639]"
+            }
+        ]
+    },
+    {
+        "id": 292,
+        "image": "b-1502-_jpg.rf.fbe2c4ccfad87e776dfef3e0b8a7df04.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 2 bananas, 1 oren, and 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.403, 0.502, 0.653, 0.773], banana: [0.241, 0.673, 0.685, 0.943], banana: [0.670, 0.255, 0.932, 0.668], oren: [0.297, 0.122, 0.578, 0.394], sugar apple: [0.039, 0.366, 0.287, 0.604]"
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "image": "c-208-_jpg.rf.fc44c300c5af438f3a62672dedcee889.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 pineapple, 1 dragon fruit, 1 banana, and 1 guava."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.514, 0.253, 0.666, 0.405], pineapple: [0.161, 0.241, 0.483, 0.524], dragon fruit: [0.456, 0.547, 0.692, 0.770], banana: [0.239, 0.542, 0.427, 0.759], guava: [0.400, 0.452, 0.566, 0.603]"
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "image": "c-263-_jpg.rf.f5651f7d5e26bdda0c6dbbf44079da2a.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple, 1 guava, 1 dragon fruit, 1 pineapple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.591, 0.461, 0.785, 0.653], guava: [0.259, 0.431, 0.500, 0.638], dragon fruit: [0.242, 0.117, 0.662, 0.391], pineapple: [0.141, 0.650, 0.569, 0.980], banana: [0.002, 0.302, 0.234, 0.650]"
+            }
+        ]
+    },
+    {
+        "id": 295,
+        "image": "c-452-_jpg.rf.fd7894115a6ad5fe896b0ed0dc0e8283.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pear, 1 dragon fruit, 1 orange, and 1 apple."
+            },
+            {
+                "from": "gpt",
+                "value": "pear: [0.312, 0.234, 0.611, 0.489], dragon fruit: [0.202, 0.525, 0.750, 0.835], oren: [0.633, 0.258, 0.921, 0.515], apples: [0.016, 0.350, 0.295, 0.602]"
+            }
+        ]
+    },
+    {
+        "id": 296,
+        "image": "c-147-_jpg.rf.fbd580f61b34d4c9dca9dc096ce544bb.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 pineapple, 1 sugar apple, 1 dragon fruit, 1 banana, 1 guava"
+            },
+            {
+                "from": "gpt",
+                "value": "pineapple: [0.405, 0.208, 0.755, 0.424], sugar apple: [0.703, 0.356, 0.850, 0.493], dragon fruit: [0.388, 0.578, 0.695, 0.754], banana: [0.278, 0.397, 0.430, 0.627], guava: [0.478, 0.441, 0.654, 0.595]"
+            }
+        ]
+    },
+    {
+        "id": 297,
+        "image": "b-1934-_jpg.rf.f2dde1a3ac62f8e370d1d4dba01fbbe7.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 banana, and 1 sugar apple."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.520, 0.241, 0.775, 0.404], pear: [0.456, 0.113, 0.601, 0.255], banana: [0.470, 0.436, 0.720, 0.578], sugar apple: [0.278, 0.197, 0.468, 0.505]"
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "image": "b-1776-_jpg.rf.ff564f520a844cc8f7e65b49fd61110d.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 sugar apple and 1 oren and 2 banana and 1 apples"
+            },
+            {
+                "from": "gpt",
+                "value": "sugar apple: [0.530, 0.338, 0.677, 0.484], oren: [0.592, 0.520, 0.775, 0.701], banana: [0.394, 0.695, 0.692, 0.895], banana: [0.242, 0.352, 0.495, 0.551], apples: [0.373, 0.502, 0.547, 0.662]"
+            }
+        ]
+    },
+    {
+        "id": 299,
+        "image": "c-555-_jpg.rf.f8e8070fd202180d76c7b779cbbd40d5.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 pear, 1 orange, 1 apple, and 1 banana."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.512, 0.412, 0.724, 0.701], pear: [0.325, 0.409, 0.515, 0.577], oren: [0.455, 0.287, 0.623, 0.441], apples: [0.317, 0.595, 0.500, 0.769]"
+            }
+        ]
+    },
+    {
+        "id": 300,
+        "image": "b-1517-_jpg.rf.fe15b40c7864bb6ce99c2aefd3405138.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 apples, 1 sugar apple, 2 bananas, and 1 orange."
+            },
+            {
+                "from": "gpt",
+                "value": "apples: [0.284, 0.202, 0.573, 0.505], sugar apple: [0.316, 0.670, 0.650, 0.988], banana: [0.562, 0.113, 0.870, 0.584], banana: [0.000, 0.067, 0.315, 0.480], oren: [0.000, 0.503, 0.230, 0.827]"
+            }
+        ]
+    },
+    {
+        "id": 301,
+        "image": "b-1649-_jpg.rf.eff7f1a995d0254ecaebc43c805bb3ee.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " 2 bananas, 1 apples, 1 oren, 1 sugar apple"
+            },
+            {
+                "from": "gpt",
+                "value": "banana: [0.505, 0.067, 0.925, 0.362], banana: [0.372, 0.681, 0.798, 0.917], apples: [0.497, 0.372, 0.766, 0.639], oren: [0.142, 0.436, 0.435, 0.717], sugar apple: [0.200, 0.103, 0.467, 0.375]"
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "image": "c-88-_jpg.rf.fc4b3d382808cc7b680eabc789990338.jpg",
+        "conversations": [
+            {
+                "from": "human",
+                "value": " A photo with 1 dragon fruit, 1 banana, 1 pineapple, 1 oren, and 1 pear."
+            },
+            {
+                "from": "gpt",
+                "value": "dragon fruit: [0.700, 0.242, 0.919, 0.499], banana: [0.336, 0.537, 0.655, 0.763], pineapple: [0.163, 0.175, 0.455, 0.572], oren: [0.466, 0.341, 0.660, 0.530], pear: [0.466, 0.123, 0.662, 0.316]"
+            }
+        ]
+    }
+]

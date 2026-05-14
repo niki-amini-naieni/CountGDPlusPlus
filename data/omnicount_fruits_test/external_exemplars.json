@@ -1,0 +1,34 @@
+{
+  "dragon fruit":{
+    "image":"c-115-_jpg.rf.00a4cce827c9c3d3308c6e357cb8b67b.jpg",
+    "boxes":[[394,287,158.5,204.5]]
+  },
+  "pineapple":{
+    "image":"c-115-_jpg.rf.00a4cce827c9c3d3308c6e357cb8b67b.jpg",
+    "boxes":[[45,92,255.5,249]]
+  },
+  "pear":{
+    "image":"c-115-_jpg.rf.00a4cce827c9c3d3308c6e357cb8b67b.jpg",
+    "boxes":[[326,130,143,138.5]]
+  },
+  "orange":{
+    "image":"c-115-_jpg.rf.00a4cce827c9c3d3308c6e357cb8b67b.jpg",
+    "boxes":[[251,283,123,123]]
+  },
+  "sugar apple":{
+    "image":"b-1306-_jpg.rf.00d12990d7cb38b687def33b59abaf37.jpg",
+    "boxes":[[312,267,141.5,138.5]]
+  },
+  "banana":{
+    "image":"b-1306-_jpg.rf.00d12990d7cb38b687def33b59abaf37.jpg",
+    "boxes":[[22,85,211,221.5]]
+  },
+  "apple":{
+    "image":"b-1306-_jpg.rf.00d12990d7cb38b687def33b59abaf37.jpg",
+    "boxes":[[392,355,177,166]]
+  },
+  "guava":{
+    "image":"c-298-_jpg.rf.050dc0072ce70c3fc499db0bd44daacd.jpg",
+    "boxes":[[238,228,123,115.5]]
+  }
+}
