@@ -98,6 +98,10 @@ python app.py
 ### 1. Download FSCD-147
 Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_qa-ziKn-LYfUWA6/view?usp=sharing), and update [datasets_fscd147_val.json](config/datasets_fscd147_val.json), and [datasets_fscd147_test.json](config/datasets_fscd147_test.json) to point to the image folder you have downloaded.
 
+For adaptive cropping, the image is cropped into smaller pieces, and AI-based super-resolution is applied to the crops before they are provided to the model. For the super-resolution, the image enhancer from the [Bubbi App](https://www.bubbi.app/tools/image-upscaler) is used. The image enhancer is not free, so the enhanced crops are provided [here](https://drive.google.com/file/d/1QyMfhPRp85La8URii8xL6wOoqcQpXhsD/view?usp=sharing). Please download and unzip the ```super-crops``` folder for inference on FSCD-147.
+
+For the text-only setting, synthetic exemplars were generated for the FSCD-147 test set using only the text. Please download and unzip the ```synthetic_exemplars``` folder [here](https://drive.google.com/file/d/1XyE77D0bxEKDsPYvpaeD6KyXnSLye1Qg/view?usp=sharing) for inference on FSCD-147.
+
 ### 2. Download Blood Cell Detection
 
 ### 3. Download OmniCount (Fruits)
@@ -111,27 +115,27 @@ Download FSCD-147 from [here](https://drive.google.com/file/d/1m_v_hBwXH1NzcuUj_
 * To test the text-only setting, run the following commands. Note that this setting uses both synthetic and pseudo-exemplars, obtained using only text.
   
   ```
-  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_only.json" --fscd_gt_file fscd147/instances_test.json --num_exemplars 0 --use_synth_exemplars --crop --eval
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_only.json" --fscd_gt_file data/fscd147/instances_test.json --num_exemplars 0 --use_synth_exemplars --crop --eval
   ```
   ```
-  python test_fscd147.py --pred detections_test_text_only.json --gt fscd147/instances_test.json --split "test"
+  python test_fscd147.py --pred detections_test_text_only.json --gt data/fscd147/instances_test.json --split "test"
   ```
 * To test the exemplar-only setting, run the following commands.
   
   ```
-  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_exemplars_only.json" --fscd_gt_file fscd147/instances_test.json --no_text --num_exemplars 3 --crop --sam_tt_norm --eval
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_exemplars_only.json" --fscd_gt_file data/fscd147/instances_test.json --no_text --num_exemplars 3 --crop --sam_tt_norm --eval
   ```
   ```
-  python test_fscd147.py --pred detections_test_exemplars_only.json --gt fscd147/instances_test.json --split "test"
+  python test_fscd147.py --pred detections_test_exemplars_only.json --gt data/fscd147/instances_test.json --split "test"
   ```
   
 * To test the multi-modal setting, with both exemplars and text, run the following commands.
 
   ```
-  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_and_exemplars.json" --fscd_gt_file fscd147/instances_test.json --num_exemplars 3 --crop --sam_tt_norm --remove_bad_exemplar --eval
+  python -u main_inference.py --output_dir ./countgd_test -c config/cfg_fscd147_test.py --eval --datasets config/datasets_fscd147_test.json --pretrain_model_path checkpoints/countgd_plusplus.pth --options text_encoder_type=checkpoints/bert-base-uncased --coco_output_file "detections_test_text_and_exemplars.json" --fscd_gt_file data/fscd147/instances_test.json --num_exemplars 3 --crop --sam_tt_norm --remove_bad_exemplar --eval
   ```
   ```
-  python test_fscd147.py --pred detections_test_text_and_exemplars.json --gt fscd147/instances_test.json --split "test"
+  python test_fscd147.py --pred detections_test_text_and_exemplars.json --gt data/fscd147/instances_test.json --split "test"
   ```
 
 ### 2. Blood Cell Detection
