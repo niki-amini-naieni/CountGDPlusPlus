@@ -253,6 +253,7 @@ Download the ShanghaiTech dataset from [here](https://github.com/desenzhou/Shang
 ### 5. CARPK
 
 ### 5. VideoCount (Crystals)
+Please see the instructions [here](https://github.com/niki-amini-naieni/CountVid#6-science-count-crystals-pseudo-exemplars) in the CountVid repository for testing the pseudo-exemplars capability on videos in the VideoCount (Crystals) dataset.
 
 ### 6. PrACo
 
