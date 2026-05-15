@@ -19,3 +19,4 @@ torch<2.6
 torchvision
 transformers
 pydantic==2.10.6
+deeplake<4
