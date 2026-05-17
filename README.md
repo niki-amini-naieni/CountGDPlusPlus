@@ -260,6 +260,7 @@ python test_carpk.py
 Please see the instructions [here](https://github.com/niki-amini-naieni/CountVid#6-science-count-crystals-pseudo-exemplars) in the CountVid repository for testing the pseudo-exemplars capability on videos in the VideoCount (Crystals) dataset.
 
 ### 6. PrACo
+Please refer to the pull request [here](https://github.com/ciampluca/PrACo/pull/3) in the PrACo repository for reproducing the results on the PrACo benchmark.
 
 ### 7. PairTally
 
