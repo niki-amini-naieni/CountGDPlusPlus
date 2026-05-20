@@ -263,7 +263,7 @@ Please see the instructions [here](https://github.com/niki-amini-naieni/CountVid
 Please refer to the pull request [here](https://github.com/ciampluca/PrACo/pull/3) in the PrACo repository for reproducing the results on the PrACo benchmark.
 
 ### 7. PairTally
-
+Please refer to the pull request [here](https://github.com/bbvisual/PairTally_Benchmark/pull/3) in the PairTally repository for reproducing the results on the PairTally benchmark.
 
 ## Training CountGD++
 
