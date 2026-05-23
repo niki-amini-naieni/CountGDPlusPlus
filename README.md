@@ -266,6 +266,7 @@ Please refer to the pull request [here](https://github.com/ciampluca/PrACo/pull/
 Please refer to the pull request [here](https://github.com/bbvisual/PairTally_Benchmark/pull/3) in the PairTally repository for reproducing the results on the PairTally benchmark.
 
 ## Training CountGD++
+The training code is downloadable [here](https://drive.google.com/file/d/1iES2vrwJ5jwz3DhaRE6Fewl7UZxhS2KS/view?usp=sharing). Download the mosaic images [here](https://drive.google.com/file/d/1YoS53pku4Kxc2lp2yTrZVxPWB4hjL2zE/view?usp=sharing), and place them in the folder with the images from FSC-147. Make sure all file and folder paths are updated to point to the data and model on your system. Once trained, the model can be used for inference in the main repository. The command used for training is in train.sh (in the zip folder).
 
 ## Citation
 Please cite our related papers if you build off of our work.
