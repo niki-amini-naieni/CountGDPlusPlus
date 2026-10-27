@@ -1,7 +1,7 @@
 # [CVPR 2026] CountGD++: Generalized Prompting for Open-World Counting
 Niki Amini-Naieni & Andrew Zisserman
 
-Official PyTorch implementation for CountGD++. Details can be found in the paper, [[Paper]](https://arxiv.org/abs/2512.23351) [[Project page]](https://github.com/niki-amini-naieni/CountGDPlusPlus/).
+Official PyTorch implementation for CountGD++. Details can be found in the paper, [[Paper]](https://arxiv.org/abs/2512.23351) [[Project page]](https://github.com/niki-amini-naieni/CountGDPlusPlus/) [[HF Model]] (https://huggingface.co/nikigoli/CountGDPlusPlus).
 
 If you find this repository useful, please give it a star ⭐.
 
